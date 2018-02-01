@@ -32,9 +32,9 @@ Output: calendar for the year with moon phases.
 Program files:
 
   * index.php - original version, with step-by-step comments for easy modification
-  * index1.php - optimized version, less comprehendable
+  * index1.php - optimized version, less comprehensible
 
-*For different data format you would need to change patterns for search & replace, and maybe something else!*
+*If your input files are of different data format, you would need to change patterns for search & replace, and maybe something else!*
 
 For info:
 
@@ -42,4 +42,4 @@ For info:
   * http://www.datemoz.com/ - build calendar templates here
   * https://www.life-moon.pp.ru/phase/year/2018/ - the list of moon phases I took here
 
-Let all sentient beings be truly happy, free from suffering and causess of suffering!
+**Let all sentient beings be truly happy, free from suffering and causess of suffering!**
