@@ -29,7 +29,12 @@ Input files:
 
 Output: calendar for the year with moon phases.
 
-*Tune search & replace patterns if your files are of different format!*
+Program files:
+
+  * index.php - original version, with step-by-step comments for easy modification
+  * index1.php - optimized version, less comprehendable
+
+*For different data format you would need to change patterns for search & replace, and maybe something else!*
 
 For info:
 
