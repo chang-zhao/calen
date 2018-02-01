@@ -25,7 +25,7 @@ The program reads both files and creates a calendar filled with colors.
 Input files:
 
   * year.html - calendar template for the year
-  * dates.txt - data on moon phases & festivals
+  * dates.txt - data on moon phases
 
 Output: calendar for the year with moon phases.
 
