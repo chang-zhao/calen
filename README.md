@@ -4,6 +4,8 @@ Suppose we have an empty calendar template (html) for a certain year:
 
 year.html
 
+![empty calendar template](calen-templ.jpg)
+
 We want to make a calendar colored with Lunar phases (Buddhist Uposatha days).
 
 Buddhist Uposatha days traditionally are 6 days in every Lunar month:
@@ -17,6 +19,8 @@ So we take a text file which lists moon phases for that year.
 dates.txt
 
 The program reads both files and creates a calendar filled with colors.
+
+![ready calendar](calen-ready.jpg)
 
 Input files:
 
@@ -32,3 +36,5 @@ For info:
   * https://regexr.com/ - learn & train in regex patterns
   * http://www.datemoz.com/ - build calendar templates here
   * https://www.life-moon.pp.ru/phase/year/2018/ - the list of moon phases I took here
+
+Let all sentient beings be truly happy, free from suffering and causess of suffering!
