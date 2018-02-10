@@ -41,5 +41,6 @@ For info:
   * https://regexr.com/ - learn & train in regex patterns
   * http://www.datemoz.com/ - build calendar templates here
   * https://www.life-moon.pp.ru/phase/year/2018/ - the list of moon phases I took here
+  * https://www.calendar-365.com/moon/moon-phases.html - for America
 
 **Let all sentient beings be truly happy, free from suffering and causess of suffering!**
