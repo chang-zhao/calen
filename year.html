@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Calendar template</title>
+    <style type="text/css">
+        table {
+            border-collapse: separate;
+            border-spacing: 1px;
+        }
+        .calendar_frame {
+            border: 1px solid #AAAAAA;
+            padding: 5px;
+        }
+        .calendar_line {
+            background-color: #FFFFFF;
+        }
+        .calendar_month {
+            background-color: #E0EBE6;
+        }
+        .month_name {
+            background-color: #649B84;
+            color: #E0EBE6;
+            font-weight: bold;
+            padding: 2px;
+        }
+        .month_frame {
+            margin: 0;
+        }
+        .month_line {
+        }
+        .week_day, .week_day2 {
+            border: 1px solid #FFFFFF;
+            margin: 1px;
+            padding: 2px;
+            text-align: center;
+            width: 2em;
+        }
+        .month_day {
+            background-color: #FFFFFF;
+            border: 1px solid #999999;
+            margin: 1px;
+            padding: 2px;
+            text-align: right;
+            width: 2em;
+        }
+        .month_noday {
+            border: 1px solid #A2C3B4;
+            margin: 1px;
+            padding: 2px;
+            text-align: right;
+            width: 2em;
+        }
+        .holiday {
+            background-color: #FFCCCC;
+            border: 1px solid #999999;
+            margin: 1px;
+            padding: 2px;
+            text-align: right;
+            width: 2em;
+        }
+        .n, .n2 {
+            background-color: #CCCCFF;
+            border: 1px solid #999999;
+            margin: 1px;
+            padding: 2px;
+            text-align: right;
+            width: 2em;
+        }
+        .q1, .q4 {
+            background-color: #CCFFCC;
+            border: 1px solid #999999;
+            margin: 1px;
+            padding: 2px;
+            text-align: right;
+            width: 2em;
+        }
+        .f, .f2 {
+            background-color: #FFFFCC;
+            border: 1px solid #999999;
+            margin: 1px;
+            padding: 2px;
+            text-align: right;
+            width: 2em;
+        }
+        .legend {
+            background-color: #FFFFFF;
+            border: 0;
+            margin: 5px;
+            padding: 5px;
+        }
+        .s {
+            box-shadow: inset 0 0 3px #000;
+        }
+    </style>
+
+</head>
+<body>
+
+<h2>Календарь на 2019 год</h2>
+
+<table cellspacing="0" class="calendar">
+<tbody>
+	<tr>
+		<td class="month january"><h5 class="month january">Январь</h5>
+			<table cellspacing="0" class="month january"><tbody>
+				<tr>
+					<td class="weeknumber 00"> </td>
+					<td class="weeknumber 01">01</td>
+					<td class="weeknumber 02">02</td>
+					<td class="weeknumber 03">03</td>
+					<td class="weeknumber 04">04</td>
+					<td class="weeknumber 05">05</td>
+				</tr>
+				<tr>
+					<td class="weekday mo 00">ПН</td>
+					<td class="day mo 01 otherday"> </td>
+					<td class="day mo 02 holiday">7</td>
+					<td class="day mo 03">14</td>
+					<td class="day mo 04">21</td>
+					<td class="day mo 05">28</td>
+				</tr>
+				<tr>
+					<td class="weekday tu 00">ВТ</td>
+					<td class="day tu 01 holiday">1</td>
+					<td class="day tu 02 holiday">8</td>
+					<td class="day tu 03">15</td>
+					<td class="day tu 04">22</td>
+					<td class="day tu 05">29</td>
+				</tr>
+				<tr>
+					<td class="weekday we 00">СР</td>
+					<td class="day we 01 holiday">2</td>
+					<td class="day we 02">9</td>
+					<td class="day we 03">16</td>
+					<td class="day we 04">23</td>
+					<td class="day we 05">30</td>
+				</tr>
+				<tr>
+					<td class="weekday th 00">ЧТ</td>
+					<td class="day th 01 holiday">3</td>
+					<td class="day th 02">10</td>
+					<td class="day th 03">17</td>
+					<td class="day th 04">24</td>
+					<td class="day th 05">31</td>
+				</tr>
+				<tr>
+					<td class="weekday fr 00">ПТ</td>
+					<td class="day fr 01 holiday">4</td>
+					<td class="day fr 02">11</td>
+					<td class="day fr 03">18</td>
+					<td class="day fr 04">25</td>
+					<td class="day fr 05 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday sa 00">СБ</td>
+					<td class="day sa 01 holiday">5</td>
+					<td class="day sa 02">12</td>
+					<td class="day sa 03">19</td>
+					<td class="day sa 04">26</td>
+					<td class="day sa 05 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday su 00">ВС</td>
+					<td class="day su 01 holiday">6</td>
+					<td class="day su 02">13</td>
+					<td class="day su 03">20</td>
+					<td class="day su 04">27</td>
+					<td class="day su 05 otherday"> </td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td class="month february"><h5 class="month february">Февраль</h5>
+			<table cellspacing="0" class="month february"><tbody>
+				<tr>
+					<td class="weeknumber 00"> </td>
+					<td class="weeknumber 05">05</td>
+					<td class="weeknumber 06">06</td>
+					<td class="weeknumber 07">07</td>
+					<td class="weeknumber 08">08</td>
+					<td class="weeknumber 09">09</td>
+				</tr>
+				<tr>
+					<td class="weekday mo 00">ПН</td>
+					<td class="day mo 05 otherday"> </td>
+					<td class="day mo 06">4</td>
+					<td class="day mo 07">11</td>
+					<td class="day mo 08">18</td>
+					<td class="day mo 09">25</td>
+				</tr>
+				<tr>
+					<td class="weekday tu 00">ВТ</td>
+					<td class="day tu 05 otherday"> </td>
+					<td class="day tu 06">5</td>
+					<td class="day tu 07">12</td>
+					<td class="day tu 08">19</td>
+					<td class="day tu 09">26</td>
+				</tr>
+				<tr>
+					<td class="weekday we 00">СР</td>
+					<td class="day we 05 otherday"> </td>
+					<td class="day we 06">6</td>
+					<td class="day we 07">13</td>
+					<td class="day we 08">20</td>
+					<td class="day we 09">27</td>
+				</tr>
+				<tr>
+					<td class="weekday th 00">ЧТ</td>
+					<td class="day th 05 otherday"> </td>
+					<td class="day th 06">7</td>
+					<td class="day th 07">14</td>
+					<td class="day th 08">21</td>
+					<td class="day th 09">28</td>
+				</tr>
+				<tr>
+					<td class="weekday fr 00">ПТ</td>
+					<td class="day fr 05">1</td>
+					<td class="day fr 06">8</td>
+					<td class="day fr 07">15</td>
+					<td class="day fr 08">22</td>
+					<td class="day fr 09 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday sa 00">СБ</td>
+					<td class="day sa 05">2</td>
+					<td class="day sa 06">9</td>
+					<td class="day sa 07">16</td>
+					<td class="day sa 08 holiday">23</td>
+					<td class="day sa 09 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday su 00">ВС</td>
+					<td class="day su 05">3</td>
+					<td class="day su 06">10</td>
+					<td class="day su 07">17</td>
+					<td class="day su 08">24</td>
+					<td class="day su 09 otherday"> </td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td class="month march"><h5 class="month march">Март</h5>
+			<table cellspacing="0" class="month march"><tbody>
+				<tr>
+					<td class="weeknumber 00"> </td>
+					<td class="weeknumber 09">09</td>
+					<td class="weeknumber 10">10</td>
+					<td class="weeknumber 11">11</td>
+					<td class="weeknumber 12">12</td>
+					<td class="weeknumber 13">13</td>
+				</tr>
+				<tr>
+					<td class="weekday mo 00">ПН</td>
+					<td class="day mo 09 otherday"> </td>
+					<td class="day mo 10">4</td>
+					<td class="day mo 11">11</td>
+					<td class="day mo 12">18</td>
+					<td class="day mo 13">25</td>
+				</tr>
+				<tr>
+					<td class="weekday tu 00">ВТ</td>
+					<td class="day tu 09 otherday"> </td>
+					<td class="day tu 10">5</td>
+					<td class="day tu 11">12</td>
+					<td class="day tu 12">19</td>
+					<td class="day tu 13">26</td>
+				</tr>
+				<tr>
+					<td class="weekday we 00">СР</td>
+					<td class="day we 09 otherday"> </td>
+					<td class="day we 10">6</td>
+					<td class="day we 11">13</td>
+					<td class="day we 12">20</td>
+					<td class="day we 13">27</td>
+				</tr>
+				<tr>
+					<td class="weekday th 00">ЧТ</td>
+					<td class="day th 09 otherday"> </td>
+					<td class="day th 10">7</td>
+					<td class="day th 11">14</td>
+					<td class="day th 12">21</td>
+					<td class="day th 13">28</td>
+				</tr>
+				<tr>
+					<td class="weekday fr 00">ПТ</td>
+					<td class="day fr 09">1</td>
+					<td class="day fr 10 holiday">8</td>
+					<td class="day fr 11">15</td>
+					<td class="day fr 12">22</td>
+					<td class="day fr 13">29</td>
+				</tr>
+				<tr>
+					<td class="weekday sa 00">СБ</td>
+					<td class="day sa 09">2</td>
+					<td class="day sa 10">9</td>
+					<td class="day sa 11">16</td>
+					<td class="day sa 12">23</td>
+					<td class="day sa 13">30</td>
+				</tr>
+				<tr>
+					<td class="weekday su 00">ВС</td>
+					<td class="day su 09">3</td>
+					<td class="day su 10">10</td>
+					<td class="day su 11">17</td>
+					<td class="day su 12">24</td>
+					<td class="day su 13">31</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td class="month april"><h5 class="month april">Апрель</h5>
+			<table cellspacing="0" class="month april"><tbody>
+				<tr>
+					<td class="weeknumber 00"> </td>
+					<td class="weeknumber 14">14</td>
+					<td class="weeknumber 15">15</td>
+					<td class="weeknumber 16">16</td>
+					<td class="weeknumber 17">17</td>
+					<td class="weeknumber 18">18</td>
+				</tr>
+				<tr>
+					<td class="weekday mo 00">ПН</td>
+					<td class="day mo 14">1</td>
+					<td class="day mo 15">8</td>
+					<td class="day mo 16">15</td>
+					<td class="day mo 17">22</td>
+					<td class="day mo 18">29</td>
+				</tr>
+				<tr>
+					<td class="weekday tu 00">ВТ</td>
+					<td class="day tu 14">2</td>
+					<td class="day tu 15">9</td>
+					<td class="day tu 16">16</td>
+					<td class="day tu 17">23</td>
+					<td class="day tu 18">30</td>
+				</tr>
+				<tr>
+					<td class="weekday we 00">СР</td>
+					<td class="day we 14">3</td>
+					<td class="day we 15">10</td>
+					<td class="day we 16">17</td>
+					<td class="day we 17">24</td>
+					<td class="day we 18 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday th 00">ЧТ</td>
+					<td class="day th 14">4</td>
+					<td class="day th 15">11</td>
+					<td class="day th 16">18</td>
+					<td class="day th 17">25</td>
+					<td class="day th 18 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday fr 00">ПТ</td>
+					<td class="day fr 14">5</td>
+					<td class="day fr 15">12</td>
+					<td class="day fr 16">19</td>
+					<td class="day fr 17">26</td>
+					<td class="day fr 18 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday sa 00">СБ</td>
+					<td class="day sa 14">6</td>
+					<td class="day sa 15">13</td>
+					<td class="day sa 16">20</td>
+					<td class="day sa 17">27</td>
+					<td class="day sa 18 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday su 00">ВС</td>
+					<td class="day su 14">7</td>
+					<td class="day su 15">14</td>
+					<td class="day su 16">21</td>
+					<td class="day su 17">28</td>
+					<td class="day su 18 otherday"> </td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td class="month may"><h5 class="month may">Май</h5>
+			<table cellspacing="0" class="month may"><tbody>
+				<tr>
+					<td class="weeknumber 00"> </td>
+					<td class="weeknumber 18">18</td>
+					<td class="weeknumber 19">19</td>
+					<td class="weeknumber 20">20</td>
+					<td class="weeknumber 21">21</td>
+					<td class="weeknumber 22">22</td>
+				</tr>
+				<tr>
+					<td class="weekday mo 00">ПН</td>
+					<td class="day mo 18 otherday"> </td>
+					<td class="day mo 19">6</td>
+					<td class="day mo 20">13</td>
+					<td class="day mo 21">20</td>
+					<td class="day mo 22">27</td>
+				</tr>
+				<tr>
+					<td class="weekday tu 00">ВТ</td>
+					<td class="day tu 18 otherday"> </td>
+					<td class="day tu 19">7</td>
+					<td class="day tu 20">14</td>
+					<td class="day tu 21">21</td>
+					<td class="day tu 22">28</td>
+				</tr>
+				<tr>
+					<td class="weekday we 00">СР</td>
+					<td class="day we 18 holiday">1</td>
+					<td class="day we 19">8</td>
+					<td class="day we 20">15</td>
+					<td class="day we 21">22</td>
+					<td class="day we 22">29</td>
+				</tr>
+				<tr>
+					<td class="weekday th 00">ЧТ</td>
+					<td class="day th 18">2</td>
+					<td class="day th 19 holiday">9</td>
+					<td class="day th 20">16</td>
+					<td class="day th 21">23</td>
+					<td class="day th 22">30</td>
+				</tr>
+				<tr>
+					<td class="weekday fr 00">ПТ</td>
+					<td class="day fr 18">3</td>
+					<td class="day fr 19">10</td>
+					<td class="day fr 20">17</td>
+					<td class="day fr 21">24</td>
+					<td class="day fr 22">31</td>
+				</tr>
+				<tr>
+					<td class="weekday sa 00">СБ</td>
+					<td class="day sa 18">4</td>
+					<td class="day sa 19">11</td>
+					<td class="day sa 20">18</td>
+					<td class="day sa 21">25</td>
+					<td class="day sa 22 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday su 00">ВС</td>
+					<td class="day su 18">5</td>
+					<td class="day su 19">12</td>
+					<td class="day su 20">19</td>
+					<td class="day su 21">26</td>
+					<td class="day su 22 otherday"> </td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td class="month june"><h5 class="month june">Июнь</h5>
+			<table cellspacing="0" class="month june"><tbody>
+				<tr>
+					<td class="weeknumber 00"> </td>
+					<td class="weeknumber 22">22</td>
+					<td class="weeknumber 23">23</td>
+					<td class="weeknumber 24">24</td>
+					<td class="weeknumber 25">25</td>
+					<td class="weeknumber 26">26</td>
+				</tr>
+				<tr>
+					<td class="weekday mo 00">ПН</td>
+					<td class="day mo 22 otherday"> </td>
+					<td class="day mo 23">3</td>
+					<td class="day mo 24">10</td>
+					<td class="day mo 25">17</td>
+					<td class="day mo 26">24</td>
+				</tr>
+				<tr>
+					<td class="weekday tu 00">ВТ</td>
+					<td class="day tu 22 otherday"> </td>
+					<td class="day tu 23">4</td>
+					<td class="day tu 24">11</td>
+					<td class="day tu 25">18</td>
+					<td class="day tu 26">25</td>
+				</tr>
+				<tr>
+					<td class="weekday we 00">СР</td>
+					<td class="day we 22 otherday"> </td>
+					<td class="day we 23">5</td>
+					<td class="day we 24 holiday">12</td>
+					<td class="day we 25">19</td>
+					<td class="day we 26">26</td>
+				</tr>
+				<tr>
+					<td class="weekday th 00">ЧТ</td>
+					<td class="day th 22 otherday"> </td>
+					<td class="day th 23">6</td>
+					<td class="day th 24">13</td>
+					<td class="day th 25">20</td>
+					<td class="day th 26">27</td>
+				</tr>
+				<tr>
+					<td class="weekday fr 00">ПТ</td>
+					<td class="day fr 22 otherday"> </td>
+					<td class="day fr 23">7</td>
+					<td class="day fr 24">14</td>
+					<td class="day fr 25">21</td>
+					<td class="day fr 26">28</td>
+				</tr>
+				<tr>
+					<td class="weekday sa 00">СБ</td>
+					<td class="day sa 22">1</td>
+					<td class="day sa 23">8</td>
+					<td class="day sa 24">15</td>
+					<td class="day sa 25">22</td>
+					<td class="day sa 26">29</td>
+				</tr>
+				<tr>
+					<td class="weekday su 00">ВС</td>
+					<td class="day su 22">2</td>
+					<td class="day su 23">9</td>
+					<td class="day su 24">16</td>
+					<td class="day su 25">23</td>
+					<td class="day su 26">30</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td class="month july"><h5 class="month july">Июль</h5>
+			<table cellspacing="0" class="month july"><tbody>
+				<tr>
+					<td class="weeknumber 00"> </td>
+					<td class="weeknumber 27">27</td>
+					<td class="weeknumber 28">28</td>
+					<td class="weeknumber 29">29</td>
+					<td class="weeknumber 30">30</td>
+					<td class="weeknumber 31">31</td>
+				</tr>
+				<tr>
+					<td class="weekday mo 00">ПН</td>
+					<td class="day mo 27">1</td>
+					<td class="day mo 28">8</td>
+					<td class="day mo 29">15</td>
+					<td class="day mo 30">22</td>
+					<td class="day mo 31">29</td>
+				</tr>
+				<tr>
+					<td class="weekday tu 00">ВТ</td>
+					<td class="day tu 27">2</td>
+					<td class="day tu 28">9</td>
+					<td class="day tu 29">16</td>
+					<td class="day tu 30">23</td>
+					<td class="day tu 31">30</td>
+				</tr>
+				<tr>
+					<td class="weekday we 00">СР</td>
+					<td class="day we 27">3</td>
+					<td class="day we 28">10</td>
+					<td class="day we 29">17</td>
+					<td class="day we 30">24</td>
+					<td class="day we 31">31</td>
+				</tr>
+				<tr>
+					<td class="weekday th 00">ЧТ</td>
+					<td class="day th 27">4</td>
+					<td class="day th 28">11</td>
+					<td class="day th 29">18</td>
+					<td class="day th 30">25</td>
+					<td class="day th 31 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday fr 00">ПТ</td>
+					<td class="day fr 27">5</td>
+					<td class="day fr 28">12</td>
+					<td class="day fr 29">19</td>
+					<td class="day fr 30">26</td>
+					<td class="day fr 31 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday sa 00">СБ</td>
+					<td class="day sa 27">6</td>
+					<td class="day sa 28">13</td>
+					<td class="day sa 29">20</td>
+					<td class="day sa 30">27</td>
+					<td class="day sa 31 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday su 00">ВС</td>
+					<td class="day su 27">7</td>
+					<td class="day su 28">14</td>
+					<td class="day su 29">21</td>
+					<td class="day su 30">28</td>
+					<td class="day su 31 otherday"> </td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td class="month august"><h5 class="month august">Август</h5>
+			<table cellspacing="0" class="month august"><tbody>
+				<tr>
+					<td class="weeknumber 00"> </td>
+					<td class="weeknumber 31">31</td>
+					<td class="weeknumber 32">32</td>
+					<td class="weeknumber 33">33</td>
+					<td class="weeknumber 34">34</td>
+					<td class="weeknumber 35">35</td>
+				</tr>
+				<tr>
+					<td class="weekday mo 00">ПН</td>
+					<td class="day mo 31 otherday"> </td>
+					<td class="day mo 32">5</td>
+					<td class="day mo 33">12</td>
+					<td class="day mo 34">19</td>
+					<td class="day mo 35">26</td>
+				</tr>
+				<tr>
+					<td class="weekday tu 00">ВТ</td>
+					<td class="day tu 31 otherday"> </td>
+					<td class="day tu 32">6</td>
+					<td class="day tu 33">13</td>
+					<td class="day tu 34">20</td>
+					<td class="day tu 35">27</td>
+				</tr>
+				<tr>
+					<td class="weekday we 00">СР</td>
+					<td class="day we 31 otherday"> </td>
+					<td class="day we 32">7</td>
+					<td class="day we 33">14</td>
+					<td class="day we 34">21</td>
+					<td class="day we 35">28</td>
+				</tr>
+				<tr>
+					<td class="weekday th 00">ЧТ</td>
+					<td class="day th 31">1</td>
+					<td class="day th 32">8</td>
+					<td class="day th 33">15</td>
+					<td class="day th 34">22</td>
+					<td class="day th 35">29</td>
+				</tr>
+				<tr>
+					<td class="weekday fr 00">ПТ</td>
+					<td class="day fr 31">2</td>
+					<td class="day fr 32">9</td>
+					<td class="day fr 33">16</td>
+					<td class="day fr 34">23</td>
+					<td class="day fr 35">30</td>
+				</tr>
+				<tr>
+					<td class="weekday sa 00">СБ</td>
+					<td class="day sa 31">3</td>
+					<td class="day sa 32">10</td>
+					<td class="day sa 33">17</td>
+					<td class="day sa 34">24</td>
+					<td class="day sa 35">31</td>
+				</tr>
+				<tr>
+					<td class="weekday su 00">ВС</td>
+					<td class="day su 31">4</td>
+					<td class="day su 32">11</td>
+					<td class="day su 33">18</td>
+					<td class="day su 34">25</td>
+					<td class="day su 35 otherday"> </td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td class="month september"><h5 class="month september">Сентябрь</h5>
+			<table cellspacing="0" class="month september"><tbody>
+				<tr>
+					<td class="weeknumber 00"> </td>
+					<td class="weeknumber 35">35</td>
+					<td class="weeknumber 36">36</td>
+					<td class="weeknumber 37">37</td>
+					<td class="weeknumber 38">38</td>
+					<td class="weeknumber 39">39</td>
+					<td class="weeknumber 40">40</td>
+				</tr>
+				<tr>
+					<td class="weekday mo 00">ПН</td>
+					<td class="day mo 35 otherday"> </td>
+					<td class="day mo 36">2</td>
+					<td class="day mo 37">9</td>
+					<td class="day mo 38">16</td>
+					<td class="day mo 39">23</td>
+					<td class="day mo 40">30</td>
+				</tr>
+				<tr>
+					<td class="weekday tu 00">ВТ</td>
+					<td class="day tu 35 otherday"> </td>
+					<td class="day tu 36">3</td>
+					<td class="day tu 37">10</td>
+					<td class="day tu 38">17</td>
+					<td class="day tu 39">24</td>
+					<td class="day tu 40 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday we 00">СР</td>
+					<td class="day we 35 otherday"> </td>
+					<td class="day we 36">4</td>
+					<td class="day we 37">11</td>
+					<td class="day we 38">18</td>
+					<td class="day we 39">25</td>
+					<td class="day we 40 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday th 00">ЧТ</td>
+					<td class="day th 35 otherday"> </td>
+					<td class="day th 36">5</td>
+					<td class="day th 37">12</td>
+					<td class="day th 38">19</td>
+					<td class="day th 39">26</td>
+					<td class="day th 40 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday fr 00">ПТ</td>
+					<td class="day fr 35 otherday"> </td>
+					<td class="day fr 36">6</td>
+					<td class="day fr 37">13</td>
+					<td class="day fr 38">20</td>
+					<td class="day fr 39">27</td>
+					<td class="day fr 40 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday sa 00">СБ</td>
+					<td class="day sa 35 otherday"> </td>
+					<td class="day sa 36">7</td>
+					<td class="day sa 37">14</td>
+					<td class="day sa 38">21</td>
+					<td class="day sa 39">28</td>
+					<td class="day sa 40 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday su 00">ВС</td>
+					<td class="day su 35">1</td>
+					<td class="day su 36">8</td>
+					<td class="day su 37">15</td>
+					<td class="day su 38">22</td>
+					<td class="day su 39">29</td>
+					<td class="day su 40 otherday"> </td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td class="month october"><h5 class="month october">Октябрь</h5>
+			<table cellspacing="0" class="month october"><tbody>
+				<tr>
+					<td class="weeknumber 00"> </td>
+					<td class="weeknumber 40">40</td>
+					<td class="weeknumber 41">41</td>
+					<td class="weeknumber 42">42</td>
+					<td class="weeknumber 43">43</td>
+					<td class="weeknumber 44">44</td>
+				</tr>
+				<tr>
+					<td class="weekday mo 00">ПН</td>
+					<td class="day mo 40 otherday"> </td>
+					<td class="day mo 41">7</td>
+					<td class="day mo 42">14</td>
+					<td class="day mo 43">21</td>
+					<td class="day mo 44">28</td>
+				</tr>
+				<tr>
+					<td class="weekday tu 00">ВТ</td>
+					<td class="day tu 40">1</td>
+					<td class="day tu 41">8</td>
+					<td class="day tu 42">15</td>
+					<td class="day tu 43">22</td>
+					<td class="day tu 44">29</td>
+				</tr>
+				<tr>
+					<td class="weekday we 00">СР</td>
+					<td class="day we 40">2</td>
+					<td class="day we 41">9</td>
+					<td class="day we 42">16</td>
+					<td class="day we 43">23</td>
+					<td class="day we 44">30</td>
+				</tr>
+				<tr>
+					<td class="weekday th 00">ЧТ</td>
+					<td class="day th 40">3</td>
+					<td class="day th 41">10</td>
+					<td class="day th 42">17</td>
+					<td class="day th 43">24</td>
+					<td class="day th 44">31</td>
+				</tr>
+				<tr>
+					<td class="weekday fr 00">ПТ</td>
+					<td class="day fr 40">4</td>
+					<td class="day fr 41">11</td>
+					<td class="day fr 42">18</td>
+					<td class="day fr 43">25</td>
+					<td class="day fr 44 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday sa 00">СБ</td>
+					<td class="day sa 40">5</td>
+					<td class="day sa 41">12</td>
+					<td class="day sa 42">19</td>
+					<td class="day sa 43">26</td>
+					<td class="day sa 44 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday su 00">ВС</td>
+					<td class="day su 40">6</td>
+					<td class="day su 41">13</td>
+					<td class="day su 42">20</td>
+					<td class="day su 43">27</td>
+					<td class="day su 44 otherday"> </td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td class="month november"><h5 class="month november">Ноябрь</h5>
+			<table cellspacing="0" class="month november"><tbody>
+				<tr>
+					<td class="weeknumber 00"> </td>
+					<td class="weeknumber 44">44</td>
+					<td class="weeknumber 45">45</td>
+					<td class="weeknumber 46">46</td>
+					<td class="weeknumber 47">47</td>
+					<td class="weeknumber 48">48</td>
+				</tr>
+				<tr>
+					<td class="weekday mo 00">ПН</td>
+					<td class="day mo 44 otherday"> </td>
+					<td class="day mo 45 holiday">4</td>
+					<td class="day mo 46">11</td>
+					<td class="day mo 47">18</td>
+					<td class="day mo 48">25</td>
+				</tr>
+				<tr>
+					<td class="weekday tu 00">ВТ</td>
+					<td class="day tu 44 otherday"> </td>
+					<td class="day tu 45">5</td>
+					<td class="day tu 46">12</td>
+					<td class="day tu 47">19</td>
+					<td class="day tu 48">26</td>
+				</tr>
+				<tr>
+					<td class="weekday we 00">СР</td>
+					<td class="day we 44 otherday"> </td>
+					<td class="day we 45">6</td>
+					<td class="day we 46">13</td>
+					<td class="day we 47">20</td>
+					<td class="day we 48">27</td>
+				</tr>
+				<tr>
+					<td class="weekday th 00">ЧТ</td>
+					<td class="day th 44 otherday"> </td>
+					<td class="day th 45">7</td>
+					<td class="day th 46">14</td>
+					<td class="day th 47">21</td>
+					<td class="day th 48">28</td>
+				</tr>
+				<tr>
+					<td class="weekday fr 00">ПТ</td>
+					<td class="day fr 44">1</td>
+					<td class="day fr 45">8</td>
+					<td class="day fr 46">15</td>
+					<td class="day fr 47">22</td>
+					<td class="day fr 48">29</td>
+				</tr>
+				<tr>
+					<td class="weekday sa 00">СБ</td>
+					<td class="day sa 44">2</td>
+					<td class="day sa 45">9</td>
+					<td class="day sa 46">16</td>
+					<td class="day sa 47">23</td>
+					<td class="day sa 48">30</td>
+				</tr>
+				<tr>
+					<td class="weekday su 00">ВС</td>
+					<td class="day su 44">3</td>
+					<td class="day su 45">10</td>
+					<td class="day su 46">17</td>
+					<td class="day su 47">24</td>
+					<td class="day su 48 otherday"> </td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td class="month december"><h5 class="month december">Декабрь</h5>
+			<table cellspacing="0" class="month december"><tbody>
+				<tr>
+					<td class="weeknumber 00"> </td>
+					<td class="weeknumber 48">48</td>
+					<td class="weeknumber 49">49</td>
+					<td class="weeknumber 50">50</td>
+					<td class="weeknumber 51">51</td>
+					<td class="weeknumber 52">52</td>
+					<td class="weeknumber 01">01</td>
+				</tr>
+				<tr>
+					<td class="weekday mo 00">ПН</td>
+					<td class="day mo 48 otherday"> </td>
+					<td class="day mo 49">2</td>
+					<td class="day mo 50">9</td>
+					<td class="day mo 51">16</td>
+					<td class="day mo 52">23</td>
+					<td class="day mo 01">30</td>
+				</tr>
+				<tr>
+					<td class="weekday tu 00">ВТ</td>
+					<td class="day tu 48 otherday"> </td>
+					<td class="day tu 49">3</td>
+					<td class="day tu 50">10</td>
+					<td class="day tu 51">17</td>
+					<td class="day tu 52">24</td>
+					<td class="day tu 01">31</td>
+				</tr>
+				<tr>
+					<td class="weekday we 00">СР</td>
+					<td class="day we 48 otherday"> </td>
+					<td class="day we 49">4</td>
+					<td class="day we 50">11</td>
+					<td class="day we 51">18</td>
+					<td class="day we 52">25</td>
+					<td class="day we 01 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday th 00">ЧТ</td>
+					<td class="day th 48 otherday"> </td>
+					<td class="day th 49">5</td>
+					<td class="day th 50">12</td>
+					<td class="day th 51">19</td>
+					<td class="day th 52">26</td>
+					<td class="day th 01 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday fr 00">ПТ</td>
+					<td class="day fr 48 otherday"> </td>
+					<td class="day fr 49">6</td>
+					<td class="day fr 50">13</td>
+					<td class="day fr 51">20</td>
+					<td class="day fr 52">27</td>
+					<td class="day fr 01 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday sa 00">СБ</td>
+					<td class="day sa 48 otherday"> </td>
+					<td class="day sa 49">7</td>
+					<td class="day sa 50">14</td>
+					<td class="day sa 51">21</td>
+					<td class="day sa 52">28</td>
+					<td class="day sa 01 otherday"> </td>
+				</tr>
+				<tr>
+					<td class="weekday su 00">ВС</td>
+					<td class="day su 48">1</td>
+					<td class="day su 49">8</td>
+					<td class="day su 50">15</td>
+					<td class="day su 51">22</td>
+					<td class="day su 52">29</td>
+					<td class="day su 01 otherday"> </td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+</tbody>
+</table>
+</body>
+</html>
