@@ -1,196 +1,1420 @@
-Moscow time (UTC+3)
-Further data see:
-https://www.timeanddate.com/moon/phases/russia/moscow?year=2031
+Moon Phases Table
+courtesy of Fred Espenak, www.Astropixels.com
 
-2019
-Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
-1188	6 Jan	04:28	14 Jan	09:45	21 Jan	08:16	28 Jan	00:10	29d 19h 35m
-1189	5 Feb	00:03	13 Feb	01:26	19 Feb	18:53	26 Feb	14:27	29d 19h 00m
-1190	6 Mar	19:03	14 Mar	13:27	21 Mar	04:42	28 Mar	07:09	29d 16h 47m
-1191	5 Apr	11:50	12 Apr	22:05	19 Apr	14:12	27 Apr	01:18	29d 13h 55m
-1192	5 May	01:45	12 May	04:12	19 May	00:11	26 May	19:33	29d 11h 16m
-1193	3 Jun	13:01	10 Jun	08:59	17 Jun	11:30	25 Jun	12:46	29d 9h 14m
-1194	2 Jul	22:16	9 Jul	13:54	17 Jul	00:38	25 Jul	04:18	29d 7h 56m
-1195	1 Aug	06:11	7 Aug	20:30	15 Aug	15:29	23 Aug	17:56	29d 7h 25m
-1196	30 Aug	13:37	6 Sep	06:10	14 Sep	07:32	22 Sep	05:40	29d 7h 49m
-1197	28 Sep	21:26	5 Oct	19:47	14 Oct	00:07	21 Oct	15:39	29d 9h 12m
-1198	28 Oct	06:38	4 Nov	13:23	12 Nov	16:34	20 Nov	00:10	29d 11h 27m
-1199	26 Nov	18:05	4 Dec	09:58	12 Dec	08:12	19 Dec	07:57	29d 14h 08m
-1200	26 Dec	08:13	 	 	 	 	 	 	29d 16h 29m
+http://astropixels.com/ephemeris/phasescat/phases2001.html
 
-2020
-Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
-1200	 	 	3 Jan	07:45	10 Jan	22:21	17 Jan	15:58	29d 16h 29m
-1201	25 Jan	00:42	2 Feb	04:41	9 Feb	10:33	16 Feb	01:17	29d 17h 50m
-1202	23 Feb	18:32	2 Mar	22:57	9 Mar	20:47	16 Mar	12:34	29d 17h 56m
-1203	24 Mar	12:28	1 Apr	13:21	8 Apr	05:35	15 Apr	01:56	29d 16h 58m
-1204	23 Apr	05:25	30 Apr	23:38	7 May	13:45	14 May	17:02	29d 15h 13m
-1205	22 May	20:38	30 May	06:29	5 Jun	22:12	13 Jun	09:23	29d 13h 03m
-1206	21 Jun	09:41	28 Jun	11:15	5 Jul	07:44	13 Jul	02:28	29d 10h 51m
-1207	20 Jul	20:32	27 Jul	15:32	3 Aug	18:58	11 Aug	19:44	29d 9h 09m
-1208	19 Aug	05:41	25 Aug	20:57	2 Sep	08:22	10 Sep	12:25	29d 8h 19m
-1209	17 Sep	14:00	24 Sep	04:54	2 Oct	00:05	10 Oct	03:39	29d 8h 31m
-1210	16 Oct	22:31	23 Oct	16:22	31 Oct	17:49	8 Nov	16:46	29d 9h 36m
-1211	15 Nov	08:07	22 Nov	07:45	30 Nov	12:29	8 Dec	03:36	29d 11h 09m
-1212	14 Dec	19:16	22 Dec	02:41	30 Dec	06:28	 	 	29d 12h 44m
+Phases of the Moon. Universal Time (UT)
 
-2021
-Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
-1212	 	 	 	 	 	 	6 Jan	12:37	29d 12h 44m
-1213	13 Jan	08:00	21 Jan	00:01	28 Jan	22:16	4 Feb	20:37	29d 14h 06m
-1214	11 Feb	22:05	19 Feb	21:47	27 Feb	11:17	6 Mar	04:30	29d 15h 15m
-1215	13 Mar	13:21	21 Mar	17:40	28 Mar	21:48	4 Apr	13:02	29d 16h 10m
-1216	12 Apr	05:30	20 Apr	09:58	27 Apr	06:31	3 May	22:50	29d 16h 29m
-1217	11 May	21:59	19 May	22:12	26 May	14:13	2 Jun	10:24	29d 15h 53m
-1218	10 Jun	13:52	18 Jun	06:54	24 Jun	21:39	2 Jul	00:10	29d 14h 24m
-1219	10 Jul	04:16	17 Jul	13:10	24 Jul	05:36	31 Jul	16:15	29d 12h 34m
-1220	8 Aug	16:50	15 Aug	18:19	22 Aug	15:01	30 Aug	10:13	29d 11h 02m
-1221	7 Sep	03:51	13 Sep	23:39	21 Sep	02:54	29 Sep	04:57	29d 10h 14m
-1222	6 Oct	14:05	13 Oct	06:25	20 Oct	17:56	28 Oct	23:05	29d 10h 09m
-1223	5 Nov	00:14	11 Nov	15:45	19 Nov	11:57	27 Nov	15:27	29d 10h 28m
-1224	4 Dec	10:43	11 Dec	04:35	19 Dec	07:35	27 Dec	05:23	29d 10h 51m
+Eclipse Types
 
-2022
-Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
-1225	2 Jan	21:33	9 Jan	21:11	18 Jan	02:48	25 Jan	16:40	29d 11h 12m
-1226	1 Feb	08:46	8 Feb	16:50	16 Feb	19:56	24 Feb	01:32	29d 11h 49m
-1227	2 Mar	20:34	10 Mar	13:45	18 Mar	10:17	25 Mar	08:37	29d 12h 50m
-1228	1 Apr	09:24	9 Apr	09:47	16 Apr	21:55	23 Apr	14:56	29d 14h 04m
-1229	30 Apr	23:28	9 May	03:21	16 May	07:14	22 May	21:43	29d 15h 02m
-1230	30 May	14:30	7 Jun	17:48	14 Jun	14:51	21 Jun	06:10	29d 15h 22m
-1231	29 Jun	05:52	7 Jul	05:14	13 Jul	21:37	20 Jul	17:18	29d 15h 03m
-1232	28 Jul	20:54	5 Aug	14:06	12 Aug	04:35	19 Aug	07:36	29d 14h 22m
-1233	27 Aug	11:17	3 Sep	21:07	10 Sep	12:59	18 Sep	00:51	29d 13h 37m
-1234	26 Sep	00:54	3 Oct	03:14	9 Oct	23:54	17 Oct	20:15	29d 12h 54m
-1235	25 Oct	13:48	1 Nov	09:37	8 Nov	14:02	16 Nov	16:27	29d 12h 09m
-1236	24 Nov	01:57	30 Nov	17:36	8 Dec	07:08	16 Dec	11:56	29d 11h 20m
-1237	23 Dec	13:16	30 Dec	04:20	 	 	 	 	29d 10h 36m
+Solar Eclipse 	Lunar Eclipse
+T - Total 	t - Total (Umbral)
+A - Annular 	p - Partial (Umbral)
+H - Hybrid (Annular/Total) 	n - Penumbral
+P - Partial
 
-2023
-Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
-1237	 	 	 	 	7 Jan	02:07	15 Jan	05:10	29d 10h 36m
-1238	21 Jan	23:53	28 Jan	18:18	5 Feb	21:28	13 Feb	19:00	29d 10h 13m
-1239	20 Feb	10:05	27 Feb	11:05	7 Mar	15:40	15 Mar	05:08	29d 10h 17m
-1240	21 Mar	20:23	29 Mar	05:32	6 Apr	07:34	13 Apr	12:11	29d 10h 49m
-1241	20 Apr	07:12	28 Apr	00:19	5 May	20:34	12 May	17:28	29d 11h 41m
-1242	19 May	18:53	27 May	18:22	4 Jun	06:41	10 Jun	22:31	29d 12h 44m
-1243	18 Jun	07:37	26 Jun	10:49	3 Jul	14:38	10 Jul	04:47	29d 13h 55m
-1244	17 Jul	21:31	26 Jul	01:06	1 Aug	21:31	8 Aug	13:28	29d 15h 06m
-1245	16 Aug	12:38	24 Aug	12:57	31 Aug	04:35	7 Sep	01:21	29d 16h 02m
-1246	15 Sep	04:39	22 Sep	22:31	29 Sep	12:57	6 Oct	16:47	29d 16h 15m
-1247	14 Oct	20:55	22 Oct	06:29	28 Oct	23:24	5 Nov	11:36	29d 15h 32m
-1248	13 Nov	12:27	20 Nov	13:49	27 Nov	12:16	5 Dec	08:49	29d 14h 05m
-1249	13 Dec	02:32	19 Dec	21:39	27 Dec	03:33	 	 	29d 12h 25m
+----
 
-2024
-Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
-1249	 	 	 	 	 	 	4 Jan	06:30	29d 12h 25m
-1250	11 Jan	14:57	18 Jan	06:52	25 Jan	20:53	3 Feb	02:18	29d 11h 02m
-1251	10 Feb	01:59	16 Feb	18:00	24 Feb	15:30	3 Mar	18:23	29d 10h 01m
-1252	10 Mar	12:00	17 Mar	07:10	25 Mar	10:00	2 Apr	06:14	29d 9h 20m
-1253	8 Apr	21:20	15 Apr	22:13	24 Apr	02:48	1 May	14:27	29d 9h 01m
-1254	8 May	06:21	15 May	14:48	23 May	16:53	30 May	20:12	29d 9h 16m
-1255	6 Jun	15:37	14 Jun	08:18	22 Jun	04:07	29 Jun	00:53	29d 10h 20m
-1256	6 Jul	01:57	14 Jul	01:48	21 Jul	13:17	28 Jul	05:51	29d 12h 16m
-1257	4 Aug	14:13	12 Aug	18:18	19 Aug	21:25	26 Aug	12:25	29d 14h 42m
-1258	3 Sep	04:55	11 Sep	09:05	18 Sep	05:34	24 Sep	21:49	29d 16h 54m
-1259	2 Oct	21:49	10 Oct	21:55	17 Oct	14:26	24 Oct	11:03	29d 17h 58m
-1260	1 Nov	15:47	9 Nov	08:55	16 Nov	00:28	23 Nov	04:27	29d 17h 34m
-1261	1 Dec	09:21	8 Dec	18:26	15 Dec	12:01	23 Dec	01:18	29d 16h 05m
-1262	31 Dec	01:26	 	 	 	 	 	 	29d 14h 09m
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
 
-2025
-Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
-1262	 	 	7 Jan	02:56	14 Jan	01:26	21 Jan	23:30	29d 14h 09m
-1263	29 Jan	15:35	5 Feb	11:02	12 Feb	16:53	20 Feb	20:32	29d 12h 09m
-1264	28 Feb	03:44	6 Mar	19:31	14 Mar	09:54	22 Mar	14:29	29d 10h 13m
-1265	29 Mar	13:57	5 Apr	05:14	13 Apr	03:22	21 Apr	04:35	29d 8h 33m
-1266	27 Apr	22:31	4 May	16:51	12 May	19:55	20 May	14:58	29d 7h 31m
-1267	27 May	06:02	3 Jun	06:40	11 Jun	10:43	18 Jun	22:19	29d 7h 29m
-1268	25 Jun	13:31	2 Jul	22:30	10 Jul	23:36	18 Jul	03:37	29d 8h 40m
-1269	24 Jul	22:11	1 Aug	15:41	9 Aug	10:55	16 Aug	08:12	29d 10h 55m
-1270	23 Aug	09:06	31 Aug	09:25	7 Sep	21:08	14 Sep	13:32	29d 13h 48m
-1271	21 Sep	22:54	30 Sep	02:53	7 Oct	06:47	13 Oct	21:12	29d 16h 31m
-1272	21 Oct	15:25	29 Oct	19:20	5 Nov	16:19	12 Nov	08:28	29d 18h 22m
-1273	20 Nov	09:47	28 Nov	09:58	5 Dec	02:14	11 Dec	23:51	29d 18h 56m
-1274	20 Dec	04:43	27 Dec	22:09	 	 	 	 	29d 18h 09m
+ 2019   Jan  6  01:28 P   Jan 14  06:45     Jan 21  05:16 t   Jan 27  21:11    
+        Feb  4  21:04     Feb 12  22:26     Feb 19  15:53     Feb 26  11:28    
+        Mar  6  16:04     Mar 14  10:27     Mar 21  01:43     Mar 28  04:10    
+        Apr  5  08:50     Apr 12  19:06     Apr 19  11:12     Apr 26  22:18    
+        May  4  22:45     May 12  01:12     May 18  21:11     May 26  16:33    
+        Jun  3  10:02     Jun 10  05:59     Jun 17  08:31     Jun 25  09:46    
+        Jul  2  19:16 T   Jul  9  10:55     Jul 16  21:38 p   Jul 25  01:18    
+        Aug  1  03:12     Aug  7  17:31     Aug 15  12:29     Aug 23  14:56    
+        Aug 30  10:37     Sep  6  03:10     Sep 14  04:33     Sep 22  02:41    
+        Sep 28  18:26     Oct  5  16:47     Oct 13  21:08     Oct 21  12:39    
+        Oct 28  03:38     Nov  4  10:23     Nov 12  13:34     Nov 19  21:11    
+        Nov 26  15:06     Dec  4  06:58     Dec 12  05:12     Dec 19  04:57    
+        Dec 26  05:13 A                                                        
 
-2026
-Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
-1274	 	 	 	 	3 Jan	13:02	10 Jan	18:48	29d 18h 09m
-1275	18 Jan	22:51	26 Jan	07:47	2 Feb	01:09	9 Feb	15:43	29d 16h 09m
-1276	17 Feb	15:01	24 Feb	15:27	3 Mar	14:37	11 Mar	12:38	29d 13h 22m
-1277	19 Mar	04:23	25 Mar	22:17	2 Apr	05:11	10 Apr	07:51	29d 10h 28m
-1278	17 Apr	14:51	24 Apr	05:31	1 May	20:23	10 May	00:10	29d 8h 09m
-1279	16 May	23:01	23 May	14:10	31 May	11:45	8 Jun	13:00	29d 6h 53m
-1280	15 Jun	05:54	22 Jun	00:55	30 Jun	02:56	7 Jul	22:28	29d 6h 50m
-1281	14 Jul	12:43	21 Jul	14:05	29 Jul	17:35	6 Aug	05:21	29d 7h 53m
-1282	12 Aug	20:36	20 Aug	05:46	28 Aug	07:18	4 Sep	10:51	29d 9h 50m
-1283	11 Sep	06:26	18 Sep	23:43	26 Sep	19:49	3 Oct	16:25	29d 12h 23m
-1284	10 Oct	18:50	18 Oct	19:12	26 Oct	07:11	1 Nov	23:28	29d 15h 12m
-1285	9 Nov	10:02	17 Nov	14:47	24 Nov	17:53	1 Dec	09:08	29d 17h 50m
-1286	9 Dec	03:51	17 Dec	08:42	24 Dec	04:28	30 Dec	21:59	29d 19h 32m
 
-2027
-Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
-1287	7 Jan	23:24	15 Jan	23:34	22 Jan	15:17	29 Jan	13:55	29d 19h 32m
-1288	6 Feb	18:56	14 Feb	10:58	21 Feb	02:23	28 Feb	08:16	29d 17h 33m
-1289	8 Mar	12:29	15 Mar	19:25	22 Mar	13:43	30 Mar	03:53	29d 14h 22m
-1290	7 Apr	02:51	14 Apr	01:56	21 Apr	01:27	28 Apr	23:17	29d 11h 07m
-1291	6 May	13:58	13 May	07:43	20 May	13:58	28 May	16:57	29d 8h 42m
-1292	4 Jun	22:40	11 Jun	13:56	19 Jun	03:44	27 Jun	07:54	29d 7h 22m
-1293	4 Jul	06:02	10 Jul	21:39	18 Jul	18:44	26 Jul	19:54	29d 7h 03m
-1294	2 Aug	13:05	9 Aug	07:54	17 Aug	10:28	25 Aug	05:27	29d 7h 36m
-1295	31 Aug	20:41	7 Sep	21:31	16 Sep	02:03	23 Sep	13:20	29d 8h 55m
-1296	30 Sep	05:36	7 Oct	14:47	15 Oct	16:47	22 Oct	20:29	29d 11h 00m
-1297	29 Oct	16:36	6 Nov	10:59	14 Nov	06:25	21 Nov	03:48	29d 13h 48m
-1298	28 Nov	06:24	6 Dec	08:22	13 Dec	19:08	20 Dec	12:10	29d 16h 48m
-1299	27 Dec	23:12	 	 	 	 	 	 	29d 19h 00m
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
 
-2028
-Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
-1299	 	 	5 Jan	04:40	12 Jan	07:03	18 Jan	22:25	29d 19h 00m
-1300	26 Jan	18:12	3 Feb	22:10	10 Feb	18:03	17 Feb	11:07	29d 19h 25m
-1301	25 Feb	13:37	4 Mar	12:02	11 Mar	04:06	18 Mar	02:22	29d 17h 54m
-1302	26 Mar	07:31	2 Apr	22:15	9 Apr	13:26	16 Apr	19:36	29d 15h 16m
-1303	24 Apr	22:46	2 May	05:25	8 May	22:48	16 May	13:43	29d 12h 29m
-1304	24 May	11:16	31 May	10:36	7 Jun	09:08	15 Jun	07:27	29d 10h 11m
-1305	22 Jun	21:27	29 Jun	15:10	6 Jul	21:10	14 Jul	23:56	29d 8h 34m
-1306	22 Jul	06:01	28 Jul	20:40	5 Aug	11:09	13 Aug	14:45	29d 7h 42m
-1307	20 Aug	13:43	27 Aug	04:35	4 Sep	02:47	12 Sep	03:45	29d 7h 40m
-1308	18 Sep	21:23	25 Sep	16:10	3 Oct	19:25	11 Oct	14:56	29d 8h 33m
-1309	18 Oct	05:56	25 Oct	07:53	2 Nov	12:17	10 Nov	00:25	29d 10h 21m
-1310	16 Nov	16:17	24 Nov	03:14	2 Dec	04:40	9 Dec	08:38	29d 12h 48m
-1311	16 Dec	05:06	24 Dec	00:44	31 Dec	19:48	 	 	29d 15h 18m
+ 2020                     Jan  3  04:45     Jan 10  19:21 n   Jan 17  12:58    
+        Jan 24  21:42     Feb  2  01:42     Feb  9  07:33     Feb 15  22:17    
+        Feb 23  15:32     Mar  2  19:57     Mar  9  17:48     Mar 16  09:34    
+        Mar 24  09:28     Apr  1  10:21     Apr  8  02:35     Apr 14  22:56    
+        Apr 23  02:26     Apr 30  20:38     May  7  10:45     May 14  14:03    
+        May 22  17:39     May 30  03:30     Jun  5  19:12 n   Jun 13  06:24    
+        Jun 21  06:41 A   Jun 28  08:16     Jul  5  04:44 n   Jul 12  23:29    
+        Jul 20  17:33     Jul 27  12:32     Aug  3  15:59     Aug 11  16:45    
+        Aug 19  02:42     Aug 25  17:58     Sep  2  05:22     Sep 10  09:26    
+        Sep 17  11:00     Sep 24  01:55     Oct  1  21:05     Oct 10  00:40    
+        Oct 16  19:31     Oct 23  13:23     Oct 31  14:49     Nov  8  13:46    
+        Nov 15  05:07     Nov 22  04:45     Nov 30  09:30 n   Dec  8  00:37    
+        Dec 14  16:17 T   Dec 21  23:41     Dec 30  03:28                      
 
-2029
-Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
-1311	 	 	 	 	 	 	7 Jan	16:26	29d 15h 18m
-1312	14 Jan	20:24	22 Jan	22:23	30 Jan	09:03	6 Feb	00:52	29d 17h 07m
-1313	13 Feb	13:31	21 Feb	18:09	28 Feb	20:10	7 Mar	10:51	29d 17h 48m
-1314	15 Mar	07:19	23 Mar	10:33	30 Mar	05:26	5 Apr	22:51	29d 17h 21m
-1315	14 Apr	00:40	21 Apr	22:50	28 Apr	13:36	5 May	12:48	29d 16h 02m
-1316	13 May	16:42	21 May	07:16	27 May	21:37	4 Jun	04:18	29d 14h 08m
-1317	12 Jun	06:50	19 Jun	12:54	26 Jun	06:22	3 Jul	20:57	29d 12h 01m
-1318	11 Jul	18:51	18 Jul	17:14	25 Jul	16:35	2 Aug	14:15	29d 10h 05m
-1319	10 Aug	04:55	16 Aug	21:55	24 Aug	04:51	1 Sep	07:33	29d 8h 49m
-1320	8 Sep	13:44	15 Sep	04:29	22 Sep	19:29	30 Sep	23:56	29d 8h 30m
-1321	7 Oct	22:14	14 Oct	14:08	22 Oct	12:27	30 Oct	14:32	29d 9h 10m
-1322	6 Nov	07:24	13 Nov	03:35	21 Nov	07:02	29 Nov	02:47	29d 10h 28m
-1323	5 Dec	17:52	12 Dec	20:49	21 Dec	01:46	28 Dec	12:49	29d 11h 57m
 
-2030
-Lunation	New Moon	First Quarter	Full Moon	Third Quarter	Duration
-1324	4 Jan	05:49	11 Jan	17:06	19 Jan	18:54	26 Jan	21:14	29d 13h 18m
-1325	2 Feb	19:07	10 Feb	14:49	18 Feb	09:19	25 Feb	04:57	29d 14h 27m
-1326	4 Mar	09:34	12 Mar	11:47	19 Mar	20:56	26 Mar	12:51	29d 15h 28m
-1327	3 Apr	01:02	11 Apr	05:56	18 Apr	06:19	24 Apr	21:38	29d 16h 10m
-1328	2 May	17:12	10 May	20:11	17 May	14:19	24 May	07:57	29d 16h 09m
-1329	1 Jun	09:21	9 Jun	06:35	15 Jun	21:40	22 Jun	20:19	29d 15h 13m
-1330	1 Jul	00:34	8 Jul	14:01	15 Jul	05:11	22 Jul	11:07	29d 13h 36m
-1331	30 Jul	14:10	6 Aug	19:42	13 Aug	13:44	21 Aug	04:15	29d 11h 56m
-1332	29 Aug	02:07	5 Sep	00:55	12 Sep	00:17	19 Sep	22:56	29d 10h 47m
-1333	27 Sep	12:54	4 Oct	06:56	11 Oct	13:46	19 Oct	17:50	29d 10h 22m
-1334	26 Oct	23:16	2 Nov	14:55	10 Nov	06:30	18 Nov	11:32	29d 10h 29m
-1335	25 Nov	09:46	2 Dec	01:56	10 Dec	01:40	18 Dec	03:01	29d 10h 46m
-1336	24 Dec	20:32	31 Dec	16:36	 	 	 	 	29d 10h 59m
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2021                                                         Jan  6  09:37    
+        Jan 13  05:00     Jan 20  21:02     Jan 28  19:16     Feb  4  17:37    
+        Feb 11  19:06     Feb 19  18:47     Feb 27  08:17     Mar  6  01:30    
+        Mar 13  10:21     Mar 21  14:40     Mar 28  18:48     Apr  4  10:02    
+        Apr 12  02:31     Apr 20  06:59     Apr 27  03:31     May  3  19:50    
+        May 11  19:00     May 19  19:13     May 26  11:14 t   Jun  2  07:24    
+        Jun 10  10:53 A   Jun 18  03:54     Jun 24  18:40     Jul  1  21:11    
+        Jul 10  01:17     Jul 17  10:11     Jul 24  02:37     Jul 31  13:16    
+        Aug  8  13:50     Aug 15  15:20     Aug 22  12:02     Aug 30  07:13    
+        Sep  7  00:52     Sep 13  20:39     Sep 20  23:55     Sep 29  01:57    
+        Oct  6  11:05     Oct 13  03:25     Oct 20  14:57     Oct 28  20:05    
+        Nov  4  21:15     Nov 11  12:46     Nov 19  08:58 p   Nov 27  12:28    
+        Dec  4  07:43 T   Dec 11  01:36     Dec 19  04:36     Dec 27  02:24    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2022   Jan  2  18:34     Jan  9  18:11     Jan 17  23:49     Jan 25  13:41    
+        Feb  1  05:46     Feb  8  13:50     Feb 16  16:57     Feb 23  22:32    
+        Mar  2  17:35     Mar 10  10:45     Mar 18  07:18     Mar 25  05:37    
+        Apr  1  06:24     Apr  9  06:48     Apr 16  18:55     Apr 23  11:56    
+        Apr 30  20:28 P   May  9  00:21     May 16  04:14 t   May 22  18:43    
+        May 30  11:30     Jun  7  14:48     Jun 14  11:52     Jun 21  03:11    
+        Jun 29  02:52     Jul  7  02:14     Jul 13  18:37     Jul 20  14:18    
+        Jul 28  17:55     Aug  5  11:07     Aug 12  01:36     Aug 19  04:36    
+        Aug 27  08:17     Sep  3  18:08     Sep 10  09:59     Sep 17  21:52    
+        Sep 25  21:54     Oct  3  00:14     Oct  9  20:55     Oct 17  17:15    
+        Oct 25  10:49 P   Nov  1  06:37     Nov  8  11:02 t   Nov 16  13:27    
+        Nov 23  22:57     Nov 30  14:36     Dec  8  04:08     Dec 16  08:56    
+        Dec 23  10:17     Dec 30  01:21                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2023                                       Jan  6  23:08     Jan 15  02:10    
+        Jan 21  20:53     Jan 28  15:19     Feb  5  18:29     Feb 13  16:01    
+        Feb 20  07:06     Feb 27  08:06     Mar  7  12:40     Mar 15  02:08    
+        Mar 21  17:23     Mar 29  02:32     Apr  6  04:35     Apr 13  09:11    
+        Apr 20  04:12 H   Apr 27  21:20     May  5  17:34 n   May 12  14:28    
+        May 19  15:53     May 27  15:22     Jun  4  03:42     Jun 10  19:31    
+        Jun 18  04:37     Jun 26  07:50     Jul  3  11:39     Jul 10  01:48    
+        Jul 17  18:32     Jul 25  22:07     Aug  1  18:32     Aug  8  10:28    
+        Aug 16  09:38     Aug 24  09:57     Aug 31  01:35     Sep  6  22:21    
+        Sep 15  01:40     Sep 22  19:32     Sep 29  09:58     Oct  6  13:48    
+        Oct 14  17:55 A   Oct 22  03:29     Oct 28  20:24 p   Nov  5  08:37    
+        Nov 13  09:27     Nov 20  10:50     Nov 27  09:16     Dec  5  05:49    
+        Dec 12  23:32     Dec 19  18:39     Dec 27  00:33                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2024                                                         Jan  4  03:30    
+        Jan 11  11:57     Jan 18  03:53     Jan 25  17:54     Feb  2  23:18    
+        Feb  9  22:59     Feb 16  15:01     Feb 24  12:30     Mar  3  15:24    
+        Mar 10  09:00     Mar 17  04:11     Mar 25  07:00 n   Apr  2  03:15    
+        Apr  8  18:21 T   Apr 15  19:13     Apr 23  23:49     May  1  11:27    
+        May  8  03:22     May 15  11:48     May 23  13:53     May 30  17:13    
+        Jun  6  12:38     Jun 14  05:18     Jun 22  01:08     Jun 28  21:53    
+        Jul  5  22:57     Jul 13  22:49     Jul 21  10:17     Jul 28  02:51    
+        Aug  4  11:13     Aug 12  15:19     Aug 19  18:26     Aug 26  09:26    
+        Sep  3  01:56     Sep 11  06:06     Sep 18  02:34 p   Sep 24  18:50    
+        Oct  2  18:49 A   Oct 10  18:55     Oct 17  11:26     Oct 24  08:03    
+        Nov  1  12:47     Nov  9  05:56     Nov 15  21:29     Nov 23  01:28    
+        Dec  1  06:22     Dec  8  15:27     Dec 15  09:02     Dec 22  22:18    
+        Dec 30  22:27                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2025                     Jan  6  23:56     Jan 13  22:27     Jan 21  20:31    
+        Jan 29  12:36     Feb  5  08:02     Feb 12  13:53     Feb 20  17:33    
+        Feb 28  00:45     Mar  6  16:32     Mar 14  06:55 t   Mar 22  11:30    
+        Mar 29  10:58 P   Apr  5  02:15     Apr 13  00:22     Apr 21  01:36    
+        Apr 27  19:31     May  4  13:52     May 12  16:56     May 20  11:59    
+        May 27  03:02     Jun  3  03:41     Jun 11  07:44     Jun 18  19:19    
+        Jun 25  10:31     Jul  2  19:30     Jul 10  20:37     Jul 18  00:38    
+        Jul 24  19:11     Aug  1  12:41     Aug  9  07:55     Aug 16  05:12    
+        Aug 23  06:06     Aug 31  06:25     Sep  7  18:09 t   Sep 14  10:33    
+        Sep 21  19:54 P   Sep 29  23:54     Oct  7  03:48     Oct 13  18:13    
+        Oct 21  12:25     Oct 29  16:21     Nov  5  13:19     Nov 12  05:28    
+        Nov 20  06:47     Nov 28  06:59     Dec  4  23:14     Dec 11  20:52    
+        Dec 20  01:43     Dec 27  19:10                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2026                                       Jan  3  10:03     Jan 10  15:48    
+        Jan 18  19:52     Jan 26  04:48     Feb  1  22:09     Feb  9  12:43    
+        Feb 17  12:01 A   Feb 24  12:28     Mar  3  11:38 t   Mar 11  09:39    
+        Mar 19  01:23     Mar 25  19:18     Apr  2  02:12     Apr 10  04:52    
+        Apr 17  11:52     Apr 24  02:32     May  1  17:23     May  9  21:11    
+        May 16  20:01     May 23  11:11     May 31  08:45     Jun  8  10:01    
+        Jun 15  02:54     Jun 21  21:55     Jun 29  23:57     Jul  7  19:29    
+        Jul 14  09:44     Jul 21  11:06     Jul 29  14:36     Aug  6  02:22    
+        Aug 12  17:37 T   Aug 20  02:46     Aug 28  04:18 p   Sep  4  07:51    
+        Sep 11  03:27     Sep 18  20:44     Sep 26  16:49     Oct  3  13:25    
+        Oct 10  15:50     Oct 18  16:13     Oct 26  04:12     Nov  1  20:28    
+        Nov  9  07:02     Nov 17  11:48     Nov 24  14:53     Dec  1  06:09    
+        Dec  9  00:52     Dec 17  05:43     Dec 24  01:28     Dec 30  19:00    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2027   Jan  7  20:24     Jan 15  20:34     Jan 22  12:17     Jan 29  10:56    
+        Feb  6  15:56 A   Feb 14  07:58     Feb 20  23:24 n   Feb 28  05:16    
+        Mar  8  09:29     Mar 15  16:25     Mar 22  10:44     Mar 30  00:54    
+        Apr  6  23:51     Apr 13  22:57     Apr 20  22:27     Apr 28  20:18    
+        May  6  10:59     May 13  04:44     May 20  10:59     May 28  13:58    
+        Jun  4  19:40     Jun 11  10:56     Jun 19  00:44     Jun 27  04:54    
+        Jul  4  03:02     Jul 10  18:39     Jul 18  15:45     Jul 26  16:55    
+        Aug  2  10:05 T   Aug  9  04:54     Aug 17  07:29 n   Aug 25  02:27    
+        Aug 31  17:41     Sep  7  18:31     Sep 15  23:04     Sep 23  10:20    
+        Sep 30  02:36     Oct  7  11:47     Oct 15  13:47     Oct 22  17:29    
+        Oct 29  13:36     Nov  6  08:00     Nov 14  03:26     Nov 21  00:48    
+        Nov 28  03:24     Dec  6  05:22     Dec 13  16:09     Dec 20  09:11    
+        Dec 27  20:12                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2028                     Jan  5  01:40     Jan 12  04:03 p   Jan 18  19:26    
+        Jan 26  15:13 A   Feb  3  19:11     Feb 10  15:04     Feb 17  08:08    
+        Feb 25  10:37     Mar  4  09:02     Mar 11  01:06     Mar 17  23:23    
+        Mar 26  04:31     Apr  2  19:15     Apr  9  10:27     Apr 16  16:37    
+        Apr 24  19:47     May  2  02:26     May  8  19:49     May 16  10:43    
+        May 24  08:16     May 31  07:37     Jun  7  06:09     Jun 15  04:27    
+        Jun 22  18:28     Jun 29  12:11     Jul  6  18:11 p   Jul 14  20:57    
+        Jul 22  03:02 T   Jul 28  17:40     Aug  5  08:10     Aug 13  11:45    
+        Aug 20  10:44     Aug 27  01:36     Sep  3  23:48     Sep 12  00:46    
+        Sep 18  18:24     Sep 25  13:10     Oct  3  16:25     Oct 11  11:57    
+        Oct 18  02:57     Oct 25  04:53     Nov  2  09:17     Nov  9  21:26    
+        Nov 16  13:18     Nov 24  00:15     Dec  2  01:40     Dec  9  05:39    
+        Dec 16  02:06     Dec 23  21:45     Dec 31  16:48 t                    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2029                                                         Jan  7  13:26    
+        Jan 14  17:24 P   Jan 22  19:23     Jan 30  06:04     Feb  5  21:52    
+        Feb 13  10:31     Feb 21  15:10     Feb 28  17:10     Mar  7  07:52    
+        Mar 15  04:19     Mar 23  07:33     Mar 30  02:26     Apr  5  19:52    
+        Apr 13  21:40     Apr 21  19:50     Apr 28  10:37     May  5  09:48    
+        May 13  13:42     May 21  04:16     May 27  18:37     Jun  4  01:19    
+        Jun 12  03:51 P   Jun 19  09:54     Jun 26  03:22 t   Jul  3  17:58    
+        Jul 11  15:51 P   Jul 18  14:14     Jul 25  13:36     Aug  2  11:16    
+        Aug 10  01:56     Aug 16  18:55     Aug 24  01:51     Sep  1  04:33    
+        Sep  8  10:44     Sep 15  01:29     Sep 22  16:29     Sep 30  20:57    
+        Oct  7  19:14     Oct 14  11:09     Oct 22  09:28     Oct 30  11:32    
+        Nov  6  04:24     Nov 13  00:35     Nov 21  04:03     Nov 28  23:48    
+        Dec  5  14:52 P   Dec 12  17:49     Dec 20  22:46 t   Dec 28  09:49    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2030   Jan  4  02:49     Jan 11  14:06     Jan 19  15:54     Jan 26  18:15    
+        Feb  2  16:08     Feb 10  11:49     Feb 18  06:20     Feb 25  01:58    
+        Mar  4  06:35     Mar 12  08:48     Mar 19  17:56     Mar 26  09:51    
+        Apr  2  22:02     Apr 11  02:57     Apr 18  03:20     Apr 24  18:39    
+        May  2  14:12     May 10  17:12     May 17  11:19     May 24  04:57    
+        Jun  1  06:21 A   Jun  9  03:36     Jun 15  18:41 p   Jun 22  17:20    
+        Jun 30  21:34     Jul  8  11:02     Jul 15  02:12     Jul 22  08:08    
+        Jul 30  11:11     Aug  6  16:43     Aug 13  10:44     Aug 21  01:15    
+        Aug 28  23:07     Sep  4  21:56     Sep 11  21:18     Sep 19  19:57    
+        Sep 27  09:55     Oct  4  03:56     Oct 11  10:47     Oct 19  14:50    
+        Oct 26  20:17     Nov  2  11:56     Nov 10  03:30     Nov 18  08:32    
+        Nov 25  06:46 T   Dec  1  22:57     Dec  9  22:40 n   Dec 18  00:01    
+        Dec 24  17:32     Dec 31  13:36                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2031                                       Jan  8  18:26     Jan 16  12:47    
+        Jan 23  04:31     Jan 30  07:43     Feb  7  12:46     Feb 14  22:50    
+        Feb 21  15:49     Mar  1  04:02     Mar  9  04:30     Mar 16  06:36    
+        Mar 23  03:49     Mar 31  00:32     Apr  7  17:21     Apr 14  12:58    
+        Apr 21  16:57     Apr 29  19:20     May  7  03:40 n   May 13  19:07    
+        May 21  07:17 A   May 29  11:20     Jun  5  11:58 n   Jun 12  02:21    
+        Jun 19  22:25     Jun 28  00:19     Jul  4  19:01     Jul 11  11:50    
+        Jul 19  13:40     Jul 27  10:35     Aug  3  01:46     Aug 10  00:24    
+        Aug 18  04:32     Aug 25  18:40     Sep  1  09:20     Sep  8  16:14    
+        Sep 16  18:47     Sep 24  01:20     Sep 30  18:58     Oct  8  10:50    
+        Oct 16  08:21     Oct 23  07:36     Oct 30  07:33 n   Nov  7  07:02    
+        Nov 14  21:10 H   Nov 21  14:45     Nov 28  23:18     Dec  7  03:20    
+        Dec 14  09:06     Dec 21  00:01     Dec 28  17:33                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2032                                                         Jan  5  22:04    
+        Jan 12  20:07     Jan 19  12:14     Jan 27  12:52     Feb  4  13:49    
+        Feb 11  06:24     Feb 18  03:29     Feb 26  07:43     Mar  5  01:47    
+        Mar 11  16:25     Mar 18  20:57     Mar 27  00:46     Apr  3  10:10    
+        Apr 10  02:39     Apr 17  15:24     Apr 25  15:10 t   May  2  16:02    
+        May  9  13:36 A   May 17  09:43     May 25  02:37     May 31  20:51    
+        Jun  8  01:32     Jun 16  03:00     Jun 23  11:33     Jun 30  02:12    
+        Jul  7  14:42     Jul 15  18:32     Jul 22  18:51     Jul 29  09:25    
+        Aug  6  05:12     Aug 14  07:51     Aug 21  01:47     Aug 27  19:33    
+        Sep  4  20:57     Sep 12  18:49     Sep 19  09:30     Sep 26  09:12    
+        Oct  4  13:27     Oct 12  03:48     Oct 18  18:58 t   Oct 26  02:29    
+        Nov  3  05:45 P   Nov 10  11:33     Nov 17  06:42     Nov 24  22:48    
+        Dec  2  20:53     Dec  9  19:09     Dec 16  20:49     Dec 24  20:39    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2033   Jan  1  10:17     Jan  8  03:34     Jan 15  13:07     Jan 23  17:46    
+        Jan 30  22:00     Feb  6  13:34     Feb 14  07:04     Feb 22  11:53    
+        Mar  1  08:23     Mar  8  01:27     Mar 16  01:37     Mar 24  01:50    
+        Mar 30  17:52 T   Apr  6  15:14     Apr 14  19:17 t   Apr 22  11:42    
+        Apr 29  02:46     May  6  06:45     May 14  10:43     May 21  18:29    
+        May 28  11:36     Jun  4  23:39     Jun 12  23:19     Jun 19  23:30    
+        Jun 26  21:07     Jul  4  17:12     Jul 12  09:29     Jul 19  04:07    
+        Jul 26  08:13     Aug  3  10:26     Aug 10  18:08     Aug 17  09:43    
+        Aug 24  21:40     Sep  2  02:24     Sep  9  02:20     Sep 15  17:34    
+        Sep 23  13:40 P   Oct  1  16:33     Oct  8  10:58 t   Oct 15  04:47    
+        Oct 23  07:29     Oct 31  04:46     Nov  6  20:32     Nov 13  20:09    
+        Nov 22  01:39     Nov 29  15:15     Dec  6  07:22     Dec 13  15:28    
+        Dec 21  18:47     Dec 29  00:20                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2034                                       Jan  4  19:47     Jan 12  13:17    
+        Jan 20  10:02     Jan 27  08:32     Feb  3  10:05     Feb 11  11:09    
+        Feb 18  23:10     Feb 25  16:34     Mar  5  02:10     Mar 13  06:45    
+        Mar 20  10:14 T   Mar 27  01:18     Apr  3  19:19 n   Apr 11  22:45    
+        Apr 18  19:26     Apr 25  11:35     May  3  12:16     May 11  10:56    
+        May 18  03:13     May 24  23:58     Jun  2  03:54     Jun  9  19:44    
+        Jun 16  10:26     Jun 23  14:35     Jul  1  17:45     Jul  9  01:59    
+        Jul 15  18:15     Jul 23  07:05     Jul 31  05:55     Aug  7  06:50    
+        Aug 14  03:53     Aug 22  00:43     Aug 29  16:49     Sep  5  11:41    
+        Sep 12  16:14 A   Sep 20  18:39     Sep 28  02:57 p   Oct  4  18:05    
+        Oct 12  07:33     Oct 20  12:03     Oct 27  12:42     Nov  3  03:27    
+        Nov 11  01:16     Nov 19  04:01     Nov 25  22:32     Dec  2  16:46    
+        Dec 10  20:14     Dec 18  17:45     Dec 25  08:54                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2035                                                         Jan  1  10:01    
+        Jan  9  15:03     Jan 17  04:45     Jan 23  20:17     Jan 31  06:03    
+        Feb  8  08:22     Feb 15  13:17     Feb 22  08:54 n   Mar  2  03:01    
+        Mar  9  23:09 A   Mar 16  20:15     Mar 23  22:42     Mar 31  23:07    
+        Apr  8  10:58     Apr 15  02:55     Apr 22  13:21     Apr 30  16:54    
+        May  7  20:04     May 14  10:28     May 22  04:26     May 30  07:31    
+        Jun  6  03:21     Jun 12  19:50     Jun 20  19:37     Jun 28  18:43    
+        Jul  5  09:59     Jul 12  07:33     Jul 20  10:37     Jul 28  02:56    
+        Aug  3  17:12     Aug 10  21:52     Aug 19  01:00 p   Aug 26  09:08    
+        Sep  2  01:59 T   Sep  9  14:47     Sep 17  14:23     Sep 24  14:40    
+        Oct  1  13:07     Oct  9  09:49     Oct 17  02:35     Oct 23  20:57    
+        Oct 31  02:59     Nov  8  05:51     Nov 15  13:49     Nov 22  05:16    
+        Nov 29  19:38     Dec  8  01:05     Dec 15  00:33     Dec 21  16:29    
+        Dec 29  14:31                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2036                     Jan  6  17:48     Jan 13  11:16     Jan 20  06:46    
+        Jan 28  10:17     Feb  5  07:01     Feb 11  22:09 t   Feb 18  23:47    
+        Feb 27  04:59 P   Mar  5  16:49     Mar 12  09:09     Mar 19  18:39    
+        Mar 27  20:57     Apr  4  00:03     Apr 10  20:23     Apr 18  14:06    
+        Apr 26  09:33     May  3  05:54     May 10  08:10     May 18  08:39    
+        May 25  19:17     Jun  1  11:34     Jun  8  21:02     Jun 17  01:03    
+        Jun 24  03:10     Jun 30  18:13     Jul  8  11:19     Jul 16  14:40    
+        Jul 23  10:17 P   Jul 30  02:56     Aug  7  02:49 t   Aug 15  01:36    
+        Aug 21  17:35 P   Aug 28  14:43     Sep  5  18:45     Sep 13  10:29    
+        Sep 20  01:51     Sep 27  06:12     Oct  5  10:15     Oct 12  18:09    
+        Oct 19  11:50     Oct 27  01:14     Nov  4  00:44     Nov 11  01:29    
+        Nov 18  00:14     Nov 25  22:28     Dec  3  14:08     Dec 10  09:18    
+        Dec 17  15:34     Dec 25  19:44                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2037                                       Jan  2  02:35     Jan  8  18:29    
+        Jan 16  09:34 P   Jan 24  14:55     Jan 31  14:04 t   Feb  7  05:44    
+        Feb 15  04:54     Feb 23  06:41     Mar  2  00:28     Mar  8  19:25    
+        Mar 16  23:36     Mar 24  18:39     Mar 31  09:53     Apr  7  11:25    
+        Apr 15  16:08     Apr 23  03:11     Apr 29  18:54     May  7  04:56    
+        May 15  05:54     May 22  09:08     May 29  04:24     Jun  5  22:49    
+        Jun 13  17:10     Jun 20  13:45     Jun 27  15:20     Jul  5  16:00    
+        Jul 13  02:32 T   Jul 19  18:31     Jul 27  04:15 p   Aug  4  07:51    
+        Aug 11  10:41     Aug 18  01:00     Aug 25  19:09     Sep  2  22:03    
+        Sep  9  18:25     Sep 16  10:36     Sep 24  11:32     Oct  2  10:29    
+        Oct  9  02:34     Oct 16  00:15     Oct 24  04:36     Oct 31  21:06    
+        Nov  7  12:03     Nov 14  17:59     Nov 22  21:35     Nov 30  06:06    
+        Dec  6  23:38     Dec 14  14:42     Dec 22  13:39     Dec 29  14:05    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2038   Jan  5  13:41 A   Jan 13  12:34     Jan 21  04:00 n   Jan 27  22:00    
+        Feb  4  05:52     Feb 12  09:30     Feb 19  16:09     Feb 26  06:56    
+        Mar  5  23:15     Mar 14  03:42     Mar 21  02:09     Mar 27  17:36    
+        Apr  4  16:43     Apr 12  18:02     Apr 19  10:36     Apr 26  06:15    
+        May  4  09:20     May 12  04:18     May 18  18:23     May 25  20:43    
+        Jun  3  00:24     Jun 10  11:11     Jun 17  02:30 n   Jun 24  12:40    
+        Jul  2  13:32 A   Jul  9  16:01     Jul 16  11:48 n   Jul 24  05:40    
+        Aug  1  00:40     Aug  7  20:21     Aug 14  22:57     Aug 22  23:12    
+        Aug 30  10:13     Sep  6  01:51     Sep 13  12:24     Sep 21  16:27    
+        Sep 28  18:57     Oct  5  09:52     Oct 13  04:22     Oct 21  08:23    
+        Oct 28  03:53     Nov  3  21:24     Nov 11  22:27     Nov 19  22:10    
+        Nov 26  13:47     Dec  3  12:46     Dec 11  17:30 n   Dec 19  09:29    
+        Dec 26  01:02 T                                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2039                     Jan  2  07:37     Jan 10  11:45     Jan 17  18:42    
+        Jan 24  13:36     Feb  1  04:45     Feb  9  03:39     Feb 16  02:36    
+        Feb 23  03:18     Mar  3  02:15     Mar 10  16:35     Mar 17  10:08    
+        Mar 24  18:00     Apr  1  21:55     Apr  9  02:53     Apr 15  18:07    
+        Apr 23  09:35     May  1  14:07     May  8  11:20     May 15  03:17    
+        May 23  01:38     May 31  02:24     Jun  6  18:48 p   Jun 13  14:16    
+        Jun 21  17:21 A   Jun 29  11:17     Jul  6  02:03     Jul 13  03:38    
+        Jul 21  07:54     Jul 28  17:50     Aug  4  09:57     Aug 11  19:36    
+        Aug 19  20:50     Aug 26  23:16     Sep  2  19:24     Sep 10  13:46    
+        Sep 18  08:23     Sep 25  04:53     Oct  2  07:23     Oct 10  08:59    
+        Oct 17  19:09     Oct 24  11:51     Oct 31  22:36     Nov  9  03:46    
+        Nov 16  05:46     Nov 22  21:17     Nov 30  16:49 p   Dec  8  20:44    
+        Dec 15  16:32 T   Dec 22  10:02     Dec 30  12:38                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2040                                                         Jan  7  11:05    
+        Jan 14  03:25     Jan 21  02:21     Jan 29  07:55     Feb  5  22:32    
+        Feb 12  14:24     Feb 19  21:34     Feb 28  00:59     Mar  6  07:19    
+        Mar 13  01:46     Mar 20  17:59     Mar 28  15:12     Apr  4  14:06    
+        Apr 11  14:00     Apr 19  13:37     Apr 27  02:38     May  3  20:00    
+        May 11  03:28 P   May 19  07:00     May 26  11:47 t   Jun  2  02:17    
+        Jun  9  18:03     Jun 17  21:32     Jun 24  19:19     Jul  1  10:18    
+        Jul  9  09:15     Jul 17  09:16     Jul 24  02:05     Jul 30  21:06    
+        Aug  8  00:26     Aug 15  18:36     Aug 22  09:10     Aug 29  11:17    
+        Sep  6  15:14     Sep 14  02:08     Sep 20  17:43     Sep 28  04:41    
+        Oct  6  05:26     Oct 13  08:41     Oct 20  04:50     Oct 28  00:27    
+        Nov  4  18:56 P   Nov 11  15:23     Nov 18  19:06 t   Nov 26  21:07    
+        Dec  4  07:33     Dec 10  23:30     Dec 18  12:16     Dec 26  17:02    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2041   Jan  2  19:08     Jan  9  10:06     Jan 17  07:11     Jan 25  10:33    
+        Feb  1  05:43     Feb  7  23:40     Feb 16  02:21     Feb 24  00:29    
+        Mar  2  15:39     Mar  9  15:51     Mar 17  20:19     Mar 25  10:32    
+        Apr  1  01:29     Apr  8  09:38     Apr 16  12:01     Apr 23  17:24    
+        Apr 30  11:46 T   May  8  03:54     May 16  00:52 p   May 22  22:26    
+        May 29  22:56     Jun  6  21:40     Jun 14  10:59     Jun 21  03:12    
+        Jun 28  11:17     Jul  6  14:12     Jul 13  19:01     Jul 20  09:13    
+        Jul 28  01:02     Aug  5  04:53     Aug 12  02:04     Aug 18  17:43    
+        Aug 26  16:16     Sep  3  17:19     Sep 10  09:24     Sep 17  05:33    
+        Sep 25  08:41     Oct  3  03:33     Oct  9  18:03     Oct 16  21:05    
+        Oct 25  01:30 A   Nov  1  12:05     Nov  8  04:43 p   Nov 15  16:06    
+        Nov 23  17:37     Nov 30  19:49     Dec  7  17:42     Dec 15  13:33    
+        Dec 23  08:06     Dec 30  03:46                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2042                                       Jan  6  08:54     Jan 14  11:24    
+        Jan 21  20:42     Jan 28  12:49     Feb  5  01:58     Feb 13  07:16    
+        Feb 20  07:39     Feb 26  23:29     Mar  6  20:10     Mar 14  23:21    
+        Mar 21  17:23     Mar 28  12:00     Apr  5  14:16 n   Apr 13  11:09    
+        Apr 20  02:19 T   Apr 27  02:19     May  5  06:48     May 12  19:18    
+        May 19  10:55     May 26  18:18     Jun  3  20:48     Jun 11  01:00    
+        Jun 17  19:48     Jun 25  11:29     Jul  3  08:09     Jul 10  05:38    
+        Jul 17  05:52     Jul 25  05:01     Aug  1  17:33     Aug  8  10:35    
+        Aug 15  18:01     Aug 23  21:55     Aug 31  02:02     Sep  6  17:09    
+        Sep 14  08:50     Sep 22  13:21     Sep 29  10:34 n   Oct  6  02:35    
+        Oct 14  02:03 A   Oct 22  02:53     Oct 28  19:48     Nov  4  15:51    
+        Nov 12  20:28     Nov 20  14:31     Nov 27  06:06     Dec  4  09:19    
+        Dec 12  14:30     Dec 20  00:28     Dec 26  17:43                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2043                                                         Jan  3  06:08    
+        Jan 11  06:53     Jan 18  09:05     Jan 25  06:56     Feb  2  04:14    
+        Feb  9  21:08     Feb 16  17:00     Feb 23  21:58     Mar  4  01:07    
+        Mar 11  09:09     Mar 18  01:03     Mar 25  14:26 t   Apr  2  18:56    
+        Apr  9  19:06 T   Apr 16  10:09     Apr 24  07:23     May  2  08:59    
+        May  9  03:21     May 15  21:05     May 23  23:37     May 31  19:25    
+        Jun  7  10:35     Jun 14  10:19     Jun 22  14:20     Jun 30  02:53    
+        Jul  6  17:51     Jul 14  01:47     Jul 22  03:24     Jul 29  08:23    
+        Aug  5  02:23     Aug 12  18:57     Aug 20  15:04     Aug 27  13:09    
+        Sep  3  13:17     Sep 11  13:01     Sep 19  01:47 t   Sep 25  18:40    
+        Oct  3  03:12 A   Oct 11  07:05     Oct 18  11:56     Oct 25  02:28    
+        Nov  1  19:57     Nov 10  00:13     Nov 16  21:52     Nov 23  13:46    
+        Dec  1  14:37     Dec  9  15:27     Dec 16  08:02     Dec 23  05:04    
+        Dec 31  09:48                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2044                     Jan  8  04:02     Jan 14  18:51     Jan 21  23:47    
+        Jan 30  04:04     Feb  6  13:46     Feb 13  06:42     Feb 20  20:20    
+        Feb 28  20:12 A   Mar  6  21:17     Mar 13  19:41 t   Mar 21  16:52    
+        Mar 29  09:26     Apr  5  03:45     Apr 12  09:39     Apr 20  11:48    
+        Apr 27  19:42     May  4  10:28     May 12  00:17     May 20  04:02    
+        May 27  03:40     Jun  2  18:33     Jun 10  15:16     Jun 18  17:00    
+        Jun 25  10:24     Jul  2  04:48     Jul 10  06:22     Jul 18  02:47    
+        Jul 24  17:10     Jul 31  17:40     Aug  8  21:14     Aug 16  10:03    
+        Aug 23  01:06 T   Aug 30  09:19     Sep  7  11:24 t   Sep 14  15:58    
+        Sep 21  11:03     Sep 29  03:30     Oct  7  00:30     Oct 13  21:52    
+        Oct 20  23:36     Oct 28  23:28     Nov  5  12:27     Nov 12  05:09    
+        Nov 19  14:58     Nov 27  19:36     Dec  4  23:34     Dec 11  14:52    
+        Dec 19  08:53     Dec 27  14:00                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2045                                       Jan  3  10:20     Jan 10  03:32    
+        Jan 18  04:25     Jan 26  05:09     Feb  1  21:05     Feb  8  19:03    
+        Feb 16  23:51 A   Feb 24  16:37     Mar  3  07:52 n   Mar 10  12:50    
+        Mar 18  17:15     Mar 26  00:56     Apr  1  18:43     Apr  9  07:52    
+        Apr 17  07:27     Apr 24  07:12     May  1  05:52     May  9  02:51    
+        May 16  18:26     May 23  12:38     May 30  17:52     Jun  7  20:23    
+        Jun 15  03:05     Jun 21  18:28     Jun 29  07:16     Jul  7  11:31    
+        Jul 14  10:28     Jul 21  01:52     Jul 28  22:11     Aug  5  23:57    
+        Aug 12  17:39 T   Aug 19  11:55     Aug 27  14:08 n   Sep  4  10:03    
+        Sep 11  01:28     Sep 18  01:30     Sep 26  06:12     Oct  3  18:32    
+        Oct 10  10:37     Oct 17  18:55     Oct 25  21:31     Nov  2  02:10    
+        Nov  8  21:49     Nov 16  15:26     Nov 24  11:43     Dec  1  09:46    
+        Dec  8  11:41     Dec 16  13:08     Dec 24  00:49     Dec 30  18:11    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2046   Jan  7  04:24     Jan 15  09:43     Jan 22  12:51 p   Jan 29  04:11    
+        Feb  5  23:10 A   Feb 14  03:20     Feb 20  23:44     Feb 27  16:23    
+        Mar  7  18:15     Mar 15  17:13     Mar 22  09:27     Mar 29  06:57    
+        Apr  6  11:52     Apr 14  03:21     Apr 20  18:21     Apr 27  23:30    
+        May  6  02:56     May 13  10:25     May 20  03:15     May 27  17:06    
+        Jun  4  15:22     Jun 11  15:28     Jun 18  13:10     Jun 26  10:40    
+        Jul  4  01:39     Jul 10  19:53     Jul 18  00:55 p   Jul 26  03:19    
+        Aug  2  10:25 T   Aug  9  01:16     Aug 16  14:50     Aug 24  18:36    
+        Aug 31  18:25     Sep  7  09:07     Sep 15  06:39     Sep 23  08:16    
+        Sep 30  02:25     Oct  6  20:41     Oct 14  23:41     Oct 22  20:08    
+        Oct 29  11:17     Nov  5  12:28     Nov 13  17:04     Nov 21  06:10    
+        Nov 27  21:50     Dec  5  07:56     Dec 13  09:55     Dec 20  14:43    
+        Dec 27  10:39                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2047                     Jan  4  05:31     Jan 12  01:21 t   Jan 18  22:32    
+        Jan 26  01:44 P   Feb  3  03:09     Feb 10  14:40     Feb 17  06:42    
+        Feb 24  18:26     Mar  4  22:52     Mar 12  01:37     Mar 18  16:11    
+        Mar 26  11:44     Apr  3  15:11     Apr 10  10:35     Apr 17  03:30    
+        Apr 25  04:40     May  3  03:26     May  9  18:24     May 16  16:46    
+        May 24  20:27     Jun  1  11:54     Jun  8  02:05     Jun 15  07:45    
+        Jun 23  10:36 P   Jun 30  17:37     Jul  7  10:34 t   Jul 15  00:09    
+        Jul 22  22:49 P   Jul 29  22:03     Aug  5  20:38     Aug 13  17:34    
+        Aug 21  09:16     Aug 28  02:49     Sep  4  08:54     Sep 12  11:18    
+        Sep 19  18:31     Sep 26  09:29     Oct  3  23:42     Oct 12  04:22    
+        Oct 19  03:28     Oct 25  19:13     Nov  2  16:58     Nov 10  19:39    
+        Nov 17  12:59     Nov 24  08:41     Dec  2  11:55     Dec 10  08:29    
+        Dec 16  23:38 P   Dec 24  01:51                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2048                                       Jan  1  06:57 t   Jan  8  18:49    
+        Jan 15  11:32     Jan 22  21:56     Jan 31  00:14     Feb  7  03:17    
+        Feb 14  00:31     Feb 21  19:22     Feb 29  14:38     Mar  7  10:45    
+        Mar 14  14:28     Mar 22  16:03     Mar 30  02:04     Apr  5  18:10    
+        Apr 13  05:20     Apr 21  10:02     Apr 28  11:13     May  5  02:22    
+        May 12  20:58     May 21  00:16     May 27  18:57     Jun  3  12:05    
+        Jun 11  12:50 A   Jun 19  10:50     Jun 26  02:08 p   Jul  2  23:58    
+        Jul 11  04:04     Jul 18  18:32     Jul 25  09:34     Aug  1  14:31    
+        Aug  9  17:59     Aug 17  00:32     Aug 23  18:07     Aug 31  07:42    
+        Sep  8  06:25     Sep 15  06:04     Sep 22  04:47     Sep 30  02:46    
+        Oct  7  17:45     Oct 14  12:20     Oct 21  18:25     Oct 29  22:15    
+        Nov  6  04:38     Nov 12  20:29     Nov 20  11:20     Nov 28  16:34    
+        Dec  5  15:30 T   Dec 12  07:29     Dec 20  06:39 n   Dec 28  08:32    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2049   Jan  4  02:24     Jan 10  21:56     Jan 19  02:29     Jan 26  21:33    
+        Feb  2  13:16     Feb  9  15:38     Feb 17  20:47     Feb 25  07:36    
+        Mar  4  00:11     Mar 11  11:26     Mar 19  12:23     Mar 26  15:10    
+        Apr  2  11:39     Apr 10  07:27     Apr 18  01:05     Apr 24  21:11    
+        May  2  00:11     May 10  01:57     May 17  11:14 n   May 24  02:54    
+        May 31  14:00 A   Jun  8  17:56     Jun 15  19:27 n   Jun 22  09:41    
+        Jun 30  04:50     Jul  8  07:10     Jul 15  02:29     Jul 21  18:48    
+        Jul 29  20:07     Aug  6  17:52     Aug 13  09:19     Aug 20  07:11    
+        Aug 28  11:19     Sep  5  02:28     Sep 11  17:04     Sep 18  23:04    
+        Sep 27  02:05     Oct  4  09:39     Oct 11  02:53     Oct 18  17:55    
+        Oct 26  16:15     Nov  2  16:19     Nov  9  15:38 n   Nov 17  14:32    
+        Nov 25  05:36 H   Dec  1  23:40     Dec  9  07:28     Dec 17  11:15    
+        Dec 24  17:52     Dec 31  08:53                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2050                                       Jan  8  01:39     Jan 16  06:18    
+        Jan 23  04:57     Jan 29  20:48     Feb  6  20:47     Feb 14  22:11    
+        Feb 21  15:03     Feb 28  11:29     Mar  8  15:23     Mar 16  10:08    
+        Mar 23  00:41     Mar 30  04:17     Apr  7  08:12     Apr 14  18:24    
+        Apr 21  10:26     Apr 28  22:08     May  6  22:26 t   May 14  00:04    
+        May 20  20:51 H   May 28  16:04     Jun  5  09:51     Jun 12  04:39    
+        Jun 19  08:22     Jun 27  09:17     Jul  4  18:51     Jul 11  09:46    
+        Jul 18  21:17     Jul 27  01:05     Aug  3  02:20     Aug  9  16:48    
+        Aug 17  11:47     Aug 25  14:56     Sep  1  09:31     Sep  8  02:51    
+        Sep 16  03:49     Sep 24  02:34     Sep 30  17:32     Oct  7  16:32    
+        Oct 15  20:49     Oct 23  12:11     Oct 30  03:16 t   Nov  6  09:57    
+        Nov 14  13:41 P   Nov 21  20:25     Nov 28  15:10     Dec  6  06:28    
+        Dec 14  05:18     Dec 21  04:15     Dec 28  05:15                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2051                                                         Jan  5  04:29    
+        Jan 12  18:58     Jan 19  12:38     Jan 26  21:20     Feb  4  01:40    
+        Feb 11  06:41     Feb 17  22:17     Feb 25  14:53     Mar  5  19:47    
+        Mar 12  16:52     Mar 19  09:34     Mar 27  09:00     Apr  4  09:41    
+        Apr 11  01:59 P   Apr 17  22:38     Apr 26  02:19 t   May  3  19:31    
+        May 10  10:29     May 17  13:30     May 25  17:35     Jun  2  02:15    
+        Jun  8  18:56     Jun 16  05:55     Jun 24  06:14     Jul  1  07:15    
+        Jul  8  04:09     Jul 15  23:21     Jul 23  16:36     Jul 30  11:52    
+        Aug  6  15:05     Aug 14  16:49     Aug 22  01:35     Aug 28  17:29    
+        Sep  5  04:33     Sep 13  09:21     Sep 20  10:11     Sep 27  01:22    
+        Oct  4  20:47 P   Oct 13  00:12     Oct 19  19:13 t   Oct 26  12:39    
+        Nov  3  14:59     Nov 11  13:07     Nov 18  05:06     Nov 25  04:03    
+        Dec  3  09:37     Dec 11  00:07     Dec 17  16:05     Dec 24  23:21    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2052   Jan  2  03:05     Jan  9  09:27     Jan 16  04:24     Jan 23  21:04    
+        Jan 31  18:30     Feb  7  17:36     Feb 14  18:21     Feb 22  18:45    
+        Mar  1  07:36     Mar  8  01:17     Mar 15  09:55     Mar 23  14:09    
+        Mar 30  18:27 T   Apr  6  09:28     Apr 14  02:29 n   Apr 22  06:03    
+        Apr 29  03:21     May  5  19:05     May 13  19:00     May 21  18:15    
+        May 28  10:50     Jun  4  06:49     Jun 12  10:27     Jun 20  03:10    
+        Jun 26  17:50     Jul  3  20:59     Jul 12  00:23     Jul 19  09:37    
+        Jul 26  01:31     Aug  2  13:20     Aug 10  12:52     Aug 17  14:43    
+        Aug 24  11:07     Sep  1  07:10     Sep  9  00:15     Sep 15  19:48    
+        Sep 22  23:33 A   Oct  1  01:36     Oct  8  10:55 p   Oct 15  02:22    
+        Oct 22  15:03     Oct 30  19:39     Nov  6  21:09     Nov 13  11:50    
+        Nov 21  09:02     Nov 29  12:16     Dec  6  07:18     Dec 13  01:07    
+        Dec 21  04:15     Dec 29  02:28                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2053                                       Jan  4  17:46     Jan 11  18:09    
+        Jan 19  23:12     Jan 27  13:41     Feb  3  04:58     Feb 10  13:49    
+        Feb 18  16:31     Feb 25  22:09     Mar  4  17:10 n   Mar 12  10:21    
+        Mar 20  07:11 A   Mar 27  04:50     Apr  3  06:23     Apr 11  06:04    
+        Apr 18  18:48     Apr 25  11:03     May  2  20:25     May 10  23:40    
+        May 18  03:43     May 24  18:04     Jun  1  11:02     Jun  9  14:20    
+        Jun 16  10:51     Jun 23  02:55     Jul  1  02:01     Jul  9  01:48    
+        Jul 15  17:26     Jul 22  14:16     Jul 30  17:06     Aug  7  10:25    
+        Aug 14  00:41     Aug 21  04:27     Aug 29  07:53 n   Sep  5  17:05    
+        Sep 12  09:36 T   Sep 19  21:29     Sep 27  21:50     Oct  4  23:01    
+        Oct 11  20:54     Oct 19  16:54     Oct 27  10:38     Nov  3  05:37    
+        Nov 10  10:55     Nov 18  13:26     Nov 25  22:21     Dec  2  14:04    
+        Dec 10  03:40     Dec 18  09:11     Dec 25  09:23                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2054                                                         Jan  1  01:11    
+        Jan  8  22:34     Jan 17  02:15     Jan 23  20:08     Jan 30  15:08    
+        Feb  7  18:14     Feb 15  15:36     Feb 22  06:47 t   Mar  1  07:36    
+        Mar  9  12:46 P   Mar 17  01:21     Mar 23  17:21     Mar 31  01:51    
+        Apr  8  04:32     Apr 15  08:24     Apr 22  04:02     Apr 29  20:46    
+        May  7  17:01     May 14  13:57     May 21  15:16     May 29  15:03    
+        Jun  6  02:40     Jun 12  19:17     Jun 20  03:43     Jun 28  07:30    
+        Jul  5  10:34     Jul 12  01:37     Jul 19  17:47     Jul 27  21:28    
+        Aug  3  17:48 P   Aug 10  10:06     Aug 18  09:22 t   Aug 26  08:56    
+        Sep  2  01:18 P   Sep  8  21:47     Sep 17  01:41     Sep 24  18:26    
+        Oct  1  09:49     Oct  8  13:20     Oct 16  17:45     Oct 24  02:40    
+        Oct 30  20:01     Nov  7  08:34     Nov 15  08:49     Nov 22  10:23    
+        Nov 29  08:34     Dec  7  06:07     Dec 14  22:41     Dec 21  18:22    
+        Dec 28  23:52                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2055                     Jan  6  03:40     Jan 13  11:21     Jan 20  03:25    
+        Jan 27  17:39 P   Feb  4  23:00     Feb 11  22:48 t   Feb 18  14:14    
+        Feb 26  12:39     Mar  6  14:48     Mar 13  08:57     Mar 20  03:18    
+        Mar 28  07:01     Apr  5  02:44     Apr 11  17:59     Apr 18  18:36    
+        Apr 26  23:17     May  4  11:10     May 11  02:32     May 18  11:30    
+        May 26  12:57     Jun  2  17:01     Jun  9  11:36     Jun 17  05:03    
+        Jun 25  00:16     Jul  1  21:31     Jul  8  22:12     Jul 16  22:15    
+        Jul 24  09:48 T   Jul 31  02:11     Aug  7  10:57 p   Aug 15  14:27    
+        Aug 22  18:15     Aug 29  08:36     Sep  6  01:57     Sep 14  05:15    
+        Sep 21  02:20     Sep 27  18:11     Oct  5  18:38     Oct 13  18:23    
+        Oct 20  10:50     Oct 27  07:53     Nov  4  12:12     Nov 12  05:38    
+        Nov 18  20:34     Nov 26  01:42     Dec  4  05:40     Dec 11  15:05    
+        Dec 18  08:15     Dec 25  22:29                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2056                                       Jan  2  22:06     Jan  9  23:14    
+        Jan 16  22:11 A   Jan 24  20:21     Feb  1  12:36 n   Feb  8  07:01    
+        Feb 15  14:00     Feb 23  17:12     Mar  2  00:40     Mar  8  15:31    
+        Mar 16  06:52     Mar 24  11:17     Mar 31  10:25     Apr  7  01:34    
+        Apr 14  23:51     Apr 23  01:34     Apr 29  18:31     May  6  13:30    
+        May 14  16:06     May 22  11:50     May 29  01:58     Jun  5  03:22    
+        Jun 13  07:04     Jun 20  18:49     Jun 27  09:48 n   Jul  4  18:55    
+        Jul 12  20:20 A   Jul 19  23:45     Jul 26  18:55 n   Aug  3  11:53    
+        Aug 11  07:48     Aug 18  04:14     Aug 25  06:01     Sep  2  05:43    
+        Sep  9  17:47     Sep 16  09:51     Sep 23  19:35     Oct  1  23:33    
+        Oct  9  03:01     Oct 15  17:58     Oct 23  11:47     Oct 31  16:12    
+        Nov  7  12:21     Nov 14  05:33     Nov 22  06:12     Nov 30  06:37    
+        Dec  6  22:31     Dec 13  20:54     Dec 22  01:34 n   Dec 29  18:22    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2057   Jan  5  09:49 T   Jan 12  15:35     Jan 20  20:01     Jan 28  03:44    
+        Feb  3  22:11     Feb 11  12:25     Feb 19  11:57     Feb 26  11:30    
+        Mar  5  11:25     Mar 13  09:35     Mar 21  00:45     Mar 27  18:39    
+        Apr  4  01:31     Apr 12  04:59     Apr 19  10:49     Apr 26  02:06    
+        May  3  16:32     May 11  21:07     May 18  19:02     May 25  10:41    
+        Jun  2  08:11     Jun 10  09:30     Jun 17  02:19 p   Jun 23  21:08    
+        Jul  1  23:47 A   Jul  9  18:38     Jul 16  09:28     Jul 23  10:09    
+        Jul 31  14:32     Aug  8  01:30     Aug 14  17:21     Aug 22  02:02    
+        Aug 30  03:55     Sep  6  07:19     Sep 13  02:53     Sep 20  20:26    
+        Sep 28  16:00     Oct  5  13:14     Oct 12  15:02     Oct 20  16:09    
+        Oct 28  03:19     Nov  3  20:24     Nov 11  06:24     Nov 19  11:32    
+        Nov 26  14:23     Dec  3  05:54     Dec 11  00:46 p   Dec 19  05:02    
+        Dec 26  01:23 T                                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2058                     Jan  1  18:31     Jan  9  20:39     Jan 17  19:43    
+        Jan 24  12:14     Jan 31  10:29     Feb  8  15:55     Feb 16  07:17    
+        Feb 22  22:57     Mar  2  05:10     Mar 10  08:53     Mar 17  15:56    
+        Mar 24  09:50     Apr  1  01:03     Apr  8  22:55     Apr 15  22:27    
+        Apr 22  21:29     Apr 30  20:18     May  8  10:12     May 15  03:58    
+        May 22  10:23 P   May 30  13:33     Jun  6  19:15 t   Jun 13  09:51    
+        Jun 21  00:35 P   Jun 29  04:13     Jul  6  02:47     Jul 12  17:28    
+        Jul 20  15:40     Jul 28  16:19     Aug  4  09:38     Aug 11  04:01    
+        Aug 19  07:03     Aug 27  02:10     Sep  2  16:51     Sep  9  18:07    
+        Sep 17  22:18     Sep 25  10:15     Oct  2  01:36     Oct  9  11:42    
+        Oct 17  13:05     Oct 24  17:16     Oct 31  12:54     Nov  8  07:47    
+        Nov 16  03:09 P   Nov 23  00:16     Nov 30  03:17 t   Dec  8  04:52    
+        Dec 15  16:12     Dec 22  08:27     Dec 29  20:26                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2059                                                         Jan  7  01:07    
+        Jan 14  03:57     Jan 20  18:51     Jan 28  15:11     Feb  5  18:49    
+        Feb 12  14:27     Feb 19  07:58     Feb 27  10:06     Mar  7  08:47    
+        Mar 14  00:06     Mar 20  23:30     Mar 29  03:48     Apr  5  18:46    
+        Apr 12  09:29     Apr 19  16:38     Apr 27  19:17     May  5  01:30    
+        May 11  19:15 T   May 19  10:22     May 27  08:04 p   Jun  3  06:20    
+        Jun 10  05:57     Jun 18  03:56     Jun 25  18:13     Jul  2  10:54    
+        Jul  9  17:59     Jul 17  20:35     Jul 25  02:24     Jul 31  16:43    
+        Aug  8  07:38     Aug 16  11:41     Aug 23  09:42     Aug 30  01:06    
+        Sep  6  23:01     Sep 15  00:45     Sep 21  17:19     Sep 28  12:54    
+        Oct  6  15:50     Oct 14  11:39     Oct 21  02:15     Oct 28  04:32    
+        Nov  5  09:12 A   Nov 12  20:45     Nov 19  13:10 p   Nov 26  23:42    
+        Dec  5  01:49     Dec 12  04:51     Dec 19  02:12     Dec 26  21:18    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2060   Jan  3  16:40     Jan 10  12:52     Jan 17  17:14     Jan 25  19:14    
+        Feb  2  05:23     Feb  8  21:42     Feb 16  09:57     Feb 24  15:06    
+        Mar  2  16:12     Mar  9  07:53     Mar 17  03:41     Mar 25  07:08    
+        Apr  1  01:38     Apr  7  19:42     Apr 15  21:22 n   Apr 23  18:54    
+        Apr 30  10:11 T   May  7  09:20     May 15  13:39     May 23  03:01    
+        May 29  18:24     Jun  6  00:44     Jun 14  03:37     Jun 21  08:44    
+        Jun 28  02:58     Jul  5  17:38     Jul 13  15:09     Jul 20  13:24    
+        Jul 27  12:50     Aug  4  11:16     Aug 12  00:51     Aug 18  18:23    
+        Aug 26  00:56     Sep  3  04:36     Sep 10  09:44     Sep 17  01:01    
+        Sep 24  15:54     Oct  2  20:41     Oct  9  18:41 n   Oct 16  10:30    
+        Oct 24  09:26 A   Nov  1  10:57     Nov  8  04:18 n   Nov 14  23:49    
+        Nov 23  04:16     Nov 30  23:11     Dec  7  14:49     Dec 14  17:15    
+        Dec 22  22:40     Dec 30  09:29                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2061                                       Jan  6  02:25     Jan 13  13:58    
+        Jan 21  15:16     Jan 28  18:10     Feb  4  15:23     Feb 12  11:52    
+        Feb 20  05:32     Feb 27  01:52     Mar  6  05:55     Mar 14  08:31    
+        Mar 21  17:23     Mar 28  09:26     Apr  4  21:47 t   Apr 13  02:10    
+        Apr 20  03:05 T   Apr 26  17:55     May  4  14:13     May 12  16:10    
+        May 19  11:03     May 26  04:12     Jun  3  06:09     Jun 11  02:42    
+        Jun 17  18:03     Jun 24  16:54     Jul  2  20:53     Jul 10  10:24    
+        Jul 17  01:11     Jul 24  08:05     Aug  1  10:11     Aug  8  16:10    
+        Aug 15  09:40     Aug 23  01:19     Aug 30  22:18     Sep  6  21:13    
+        Sep 13  20:38     Sep 21  19:45     Sep 29  09:33 t   Oct  6  02:57    
+        Oct 13  10:42 A   Oct 21  14:24     Oct 28  20:12     Nov  4  10:53    
+        Nov 12  03:40     Nov 20  08:12     Nov 27  06:33     Dec  3  22:12    
+        Dec 11  22:33     Dec 19  23:58     Dec 26  16:53                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2062                                                         Jan  2  13:21    
+        Jan 10  17:53     Jan 18  12:51     Jan 25  03:38     Feb  1  07:43    
+        Feb  9  12:11     Feb 16  22:38     Feb 23  15:08     Mar  3  03:49    
+        Mar 11  04:13 P   Mar 18  05:58     Mar 25  03:36 t   Apr  1  23:55    
+        Apr  9  17:17     Apr 16  12:04     Apr 23  16:57     May  1  18:34    
+        May  9  03:23     May 15  18:18     May 23  07:03     May 31  10:44    
+        Jun  7  11:12     Jun 14  01:53     Jun 21  21:43     Jun 29  23:54    
+        Jul  6  17:53     Jul 13  11:43     Jul 21  12:48     Jul 29  10:04    
+        Aug  5  00:41     Aug 12  00:21     Aug 20  03:56     Aug 27  17:49    
+        Sep  3  08:43 P   Sep 10  16:00     Sep 18  18:37 t   Sep 26  00:11    
+        Oct  2  18:50     Oct 10  10:27     Oct 18  08:19     Oct 25  06:28    
+        Nov  1  07:33     Nov  9  06:51     Nov 16  20:48     Nov 23  13:58    
+        Nov 30  23:01     Dec  9  03:29     Dec 16  08:18     Dec 22  23:41    
+        Dec 30  16:57                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2063                     Jan  7  22:16     Jan 14  19:12     Jan 21  12:05    
+        Jan 29  12:23     Feb  6  13:37     Feb 13  05:49     Feb 20  03:07    
+        Feb 28  07:38 A   Mar  8  01:07     Mar 14  16:14 p   Mar 21  20:16    
+        Mar 30  00:50     Apr  6  09:18     Apr 13  02:35     Apr 20  14:42    
+        Apr 28  14:52     May  5  15:20     May 12  13:11     May 20  09:16    
+        May 28  01:47     Jun  3  20:29     Jun 11  00:43     Jun 19  02:43    
+        Jun 26  10:26     Jul  3  02:01     Jul 10  13:48     Jul 18  18:05    
+        Jul 25  17:55     Aug  1  09:10     Aug  9  04:40     Aug 17  07:01    
+        Aug 24  01:18 T   Aug 30  19:04     Sep  7  20:53 n   Sep 15  17:44    
+        Sep 22  09:22     Sep 29  08:39     Oct  7  13:27     Oct 15  02:49    
+        Oct 21  18:47     Oct 29  02:14     Nov  6  05:23     Nov 13  10:57    
+        Nov 20  06:10     Nov 27  23:00     Dec  5  20:06     Dec 12  18:50    
+        Dec 19  20:04     Dec 27  20:58                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2064                                       Jan  4  09:31     Jan 11  03:14    
+        Jan 18  12:37     Jan 26  17:42     Feb  2  21:37 p   Feb  9  12:56    
+        Feb 17  07:03 A   Feb 25  11:23     Mar  3  08:19     Mar 10  00:34    
+        Mar 18  01:45     Mar 26  01:13     Apr  1  17:40     Apr  8  14:25    
+        Apr 16  19:02     Apr 24  11:18     May  1  02:08     May  8  06:17    
+        May 16  09:55     May 23  18:16     May 30  10:36     Jun  6  23:24    
+        Jun 14  22:21     Jun 21  23:14     Jun 28  20:09     Jul  6  16:49    
+        Jul 14  08:46     Jul 21  03:36     Jul 28  07:41 p   Aug  5  09:41    
+        Aug 12  17:49 T   Aug 19  08:55     Aug 26  21:35     Sep  4  01:30    
+        Sep 11  02:11     Sep 17  16:46     Sep 25  13:39     Oct  3  15:51    
+        Oct 10  10:34     Oct 17  04:22     Oct 25  07:06     Nov  2  04:25    
+        Nov  8  19:45     Nov 15  20:14     Nov 24  00:59     Dec  1  15:00    
+        Dec  8  06:29     Dec 15  15:45     Dec 23  18:14     Dec 30  23:50    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2065   Jan  6  19:15     Jan 14  13:19     Jan 22  09:54 t   Jan 29  07:38    
+        Feb  5  10:02 P   Feb 13  10:51     Feb 20  23:11     Feb 27  15:30    
+        Mar  7  02:15     Mar 15  06:25     Mar 22  09:56     Mar 29  00:25    
+        Apr  5  19:01     Apr 13  22:38     Apr 20  18:36     Apr 27  11:03    
+        May  5  11:31     May 13  10:53     May 20  02:06     May 26  23:39    
+        Jun  4  03:05     Jun 11  19:26     Jun 18  09:29     Jun 25  14:09    
+        Jul  3  17:16 P   Jul 11  01:17     Jul 17  17:46 t   Jul 25  06:22    
+        Aug  2  05:46 P   Aug  9  05:53     Aug 16  03:46     Aug 23  23:56    
+        Aug 31  16:40     Sep  7  10:50     Sep 14  16:05     Sep 22  18:10    
+        Sep 30  02:25     Oct  6  17:38     Oct 14  07:05     Oct 22  11:54    
+        Oct 29  11:49     Nov  5  03:27     Nov 13  00:38     Nov 21  03:52    
+        Nov 27  21:40     Dec  4  16:55     Dec 12  19:53     Dec 20  17:12    
+        Dec 27  08:28 P                                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2066                     Jan  3  09:57     Jan 11  15:08 t   Jan 19  03:48    
+        Jan 25  20:14     Feb  2  05:45     Feb 10  08:29     Feb 17  12:14    
+        Feb 24  08:51     Mar  4  02:49     Mar 11  22:48     Mar 18  19:26    
+        Mar 25  22:14     Apr  2  23:10     Apr 10  10:03     Apr 17  02:23    
+        Apr 24  12:30     May  2  16:58     May  9  18:59     May 16  10:01    
+        May 24  03:39     Jun  1  07:14     Jun  8  02:31     Jun 14  19:11    
+        Jun 22  19:16 A   Jun 30  18:00     Jul  7  09:35 p   Jul 14  06:39    
+        Jul 22  10:34     Jul 30  02:02     Aug  5  17:00     Aug 12  21:00    
+        Aug 21  00:50     Aug 28  08:25     Sep  4  01:38     Sep 11  14:17    
+        Sep 19  13:48     Sep 26  14:20     Oct  3  12:25     Oct 11  09:43    
+        Oct 19  01:43     Oct 25  20:53     Nov  2  02:13     Nov 10  05:46    
+        Nov 17  13:06     Nov 24  05:10     Dec  1  19:17     Dec 10  00:39    
+        Dec 17  00:18 T   Dec 23  16:07     Dec 31  14:41 n                    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2067                                                         Jan  8  17:01    
+        Jan 15  11:17     Jan 22  06:17     Jan 30  10:30     Feb  7  06:14    
+        Feb 13  21:58     Feb 20  23:31     Mar  1  04:42     Mar  8  16:16    
+        Mar 15  08:29     Mar 22  18:44     Mar 30  20:09     Apr  6  23:38    
+        Apr 13  19:24     Apr 21  14:16     Apr 29  08:40     May  6  05:19    
+        May 13  07:21     May 21  08:29     May 28  18:42 n   Jun  4  10:39    
+        Jun 11  20:41 A   Jun 20  00:29     Jun 27  02:53 n   Jul  3  17:03    
+        Jul 11  11:17     Jul 19  14:00     Jul 26  09:59     Aug  2  01:52    
+        Aug 10  02:37     Aug 18  01:10     Aug 24  16:57     Aug 31  14:05    
+        Sep  8  18:09     Sep 16  10:20     Sep 23  00:55     Sep 30  06:01    
+        Oct  8  09:28     Oct 15  18:03     Oct 22  10:56     Oct 30  01:08    
+        Nov  7  00:14     Nov 14  01:07     Nov 20  23:50 n   Nov 28  22:07    
+        Dec  6  14:05 A   Dec 13  08:39     Dec 20  15:42     Dec 28  19:11    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2068   Jan  5  02:38     Jan 11  17:47     Jan 19  09:45     Jan 27  14:28    
+        Feb  3  13:45     Feb 10  05:21     Feb 18  04:38     Feb 26  06:26    
+        Mar  3  23:38     Mar 10  19:27     Mar 18  22:56     Mar 26  18:21    
+        Apr  2  08:52     Apr  9  11:33     Apr 17  15:30     Apr 25  02:30    
+        May  1  18:07     May  9  04:48     May 17  05:35 p   May 24  08:01    
+        May 31  04:04 H   Jun  7  22:21     Jun 15  17:00     Jun 22  12:26    
+        Jun 29  15:12     Jul  7  15:32     Jul 15  02:08     Jul 21  17:22    
+        Jul 29  03:55     Aug  6  07:39     Aug 13  09:51     Aug 20  00:17    
+        Aug 27  18:29     Sep  4  22:04     Sep 11  17:19     Sep 18  10:17    
+        Sep 26  10:49     Oct  4  10:23     Oct 11  01:40     Oct 18  00:01    
+        Oct 26  04:17     Nov  2  20:38     Nov  9  11:41 t   Nov 16  17:33    
+        Nov 24  21:43 P   Dec  2  05:21     Dec  8  23:42     Dec 16  14:11    
+        Dec 24  13:45     Dec 31  13:23                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2069                                       Jan  7  13:44     Jan 15  12:17    
+        Jan 23  03:37     Jan 29  21:40     Feb  6  05:30     Feb 14  09:28    
+        Feb 21  15:17     Feb 28  06:55     Mar  7  22:35     Mar 16  03:31    
+        Mar 23  01:14     Mar 29  17:35     Apr  6  16:13     Apr 14  17:22    
+        Apr 21  09:59 P   Apr 28  05:57     May  6  09:12 t   May 14  03:10    
+        May 20  18:06 P   May 27  20:09     Jun  5  00:20     Jun 12  09:57    
+        Jun 19  02:14     Jun 26  12:10     Jul  4  13:06     Jul 11  14:59    
+        Jul 18  11:13     Jul 26  05:31     Aug  2  23:45     Aug  9  19:41    
+        Aug 16  22:03     Aug 24  23:17     Sep  1  09:07     Sep  8  01:23    
+        Sep 15  11:36     Sep 23  16:24     Sep 30  18:09     Oct  7  09:20    
+        Oct 15  04:04 P   Oct 23  07:58     Oct 30  03:36 t   Nov  5  20:40    
+        Nov 13  22:38     Nov 21  21:32     Nov 28  13:46     Dec  5  12:04    
+        Dec 13  17:38     Dec 21  09:00     Dec 28  00:50                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2070                                                         Jan  4  07:16    
+        Jan 12  11:23     Jan 19  18:32     Jan 26  13:00     Feb  3  04:46    
+        Feb 11  02:53     Feb 18  02:34     Feb 25  02:32     Mar  5  02:12    
+        Mar 12  15:53     Mar 19  09:54     Mar 26  17:31     Apr  3  21:23    
+        Apr 11  02:31 T   Apr 17  17:32     Apr 25  09:31 n   May  3  13:12    
+        May 10  11:09     May 17  02:31     May 25  01:38     Jun  2  01:27    
+        Jun  8  18:25     Jun 15  13:41     Jun 23  16:57     Jul  1  10:34    
+        Jul  8  01:15     Jul 15  03:27     Jul 23  07:02     Jul 30  17:18    
+        Aug  6  08:52     Aug 13  19:41     Aug 21  19:54     Aug 28  22:42    
+        Sep  4  18:29     Sep 12  13:45     Sep 20  07:48     Sep 27  04:03    
+        Oct  4  07:02 A   Oct 12  08:40     Oct 19  18:59 p   Oct 26  10:48    
+        Nov  2  22:43     Nov 11  03:21     Nov 18  05:41     Nov 24  20:20    
+        Dec  2  16:54     Dec 10  20:33     Dec 17  16:06     Dec 24  09:32    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2071   Jan  1  12:16     Jan  9  11:09     Jan 16  02:36     Jan 23  02:17    
+        Jan 31  07:16     Feb  7  22:31     Feb 14  13:34     Feb 21  21:30    
+        Mar  2  00:32     Mar  9  06:54     Mar 16  01:18 n   Mar 23  17:33    
+        Mar 31  15:04 A   Apr  7  13:18     Apr 14  13:56     Apr 22  12:53    
+        Apr 30  02:31     May  6  19:05     May 14  03:25     May 22  06:19    
+        May 29  11:17     Jun  5  01:39     Jun 12  17:37     Jun 20  21:05    
+        Jun 27  18:21     Jul  4  10:03     Jul 12  08:26     Jul 20  08:53    
+        Jul 27  00:57     Aug  2  21:05     Aug 10  23:40     Aug 18  17:58    
+        Aug 25  08:17     Sep  1  11:10     Sep  9  14:52 n   Sep 17  01:08    
+        Sep 23  17:22 T   Oct  1  04:21     Oct  9  05:24     Oct 16  07:31    
+        Oct 23  04:50     Oct 31  00:07     Nov  7  18:48     Nov 14  14:24    
+        Nov 21  19:00     Nov 29  21:07     Dec  7  06:58     Dec 13  22:58    
+        Dec 21  11:47     Dec 29  17:17                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2072                                       Jan  5  18:13     Jan 12  09:55    
+        Jan 20  06:35     Jan 28  10:36     Feb  4  04:56     Feb 10  23:27    
+        Feb 19  02:04     Feb 27  00:02     Mar  4  15:18 t   Mar 11  15:19    
+        Mar 19  20:22 P   Mar 27  09:43     Apr  3  01:25     Apr 10  08:54    
+        Apr 18  11:57     Apr 25  16:35     May  2  11:34     May 10  03:18    
+        May 18  00:19     May 24  21:54     May 31  22:18     Jun  8  21:21    
+        Jun 16  09:58     Jun 23  02:57     Jun 30  10:22     Jul  8  13:54    
+        Jul 15  17:56     Jul 22  09:02     Jul 30  00:17     Aug  7  04:16    
+        Aug 14  01:21     Aug 20  17:21     Aug 28  16:00 t   Sep  5  16:20    
+        Sep 12  09:07 T   Sep 19  04:59     Sep 27  08:44     Oct  5  02:29    
+        Oct 11  17:56     Oct 18  20:37     Oct 27  01:22     Nov  3  11:17    
+        Nov 10  04:22     Nov 17  16:04     Nov 25  17:00     Dec  2  19:22    
+        Dec  9  16:59     Dec 17  13:51     Dec 25  07:16                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2073                                                         Jan  1  03:28    
+        Jan  8  08:11     Jan 16  11:33     Jan 23  20:06     Jan 30  12:19    
+        Feb  7  01:41 P   Feb 15  06:57     Feb 22  07:27 t   Feb 28  22:40    
+        Mar  8  20:16     Mar 16  22:44     Mar 23  17:18     Mar 30  11:04    
+        Apr  7  14:14     Apr 15  10:36     Apr 22  01:55     Apr 29  01:38    
+        May  7  06:16     May 14  19:00     May 21  10:03     May 28  17:58    
+        Jun  5  19:52     Jun 13  00:48     Jun 19  18:45     Jun 27  11:12    
+        Jul  5  07:17     Jul 12  05:16     Jul 19  05:05     Jul 27  04:29    
+        Aug  3  17:04 T   Aug 10  09:55     Aug 17  17:46 t   Aug 25  21:06    
+        Sep  2  01:53     Sep  8  16:20     Sep 16  08:53     Sep 24  12:32    
+        Oct  1  10:22     Oct  8  01:57     Oct 16  01:55     Oct 24  02:23    
+        Oct 30  19:13     Nov  6  15:42     Nov 14  19:55     Nov 22  14:16    
+        Nov 29  05:12     Dec  6  09:33     Dec 14  13:49     Dec 22  00:06    
+        Dec 28  16:56                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2074                     Jan  5  06:19     Jan 13  06:32     Jan 20  08:21    
+        Jan 27  06:38 A   Feb  4  04:03     Feb 11  21:06 n   Feb 18  15:56    
+        Feb 25  22:01     Mar  6  00:44     Mar 13  09:02     Mar 19  23:59    
+        Mar 27  14:20     Apr  4  18:41     Apr 11  18:31     Apr 18  09:23    
+        Apr 26  06:48     May  4  08:54     May 11  02:18     May 17  20:40    
+        May 25  22:45     Jun  2  19:15     Jun  9  09:28     Jun 16  09:57    
+        Jun 24  13:39     Jul  2  02:23     Jul  8  17:05 n   Jul 16  01:12    
+        Jul 24  03:07 A   Jul 31  07:31     Aug  7  02:06 n   Aug 14  18:10    
+        Aug 22  15:00     Aug 29  12:12     Sep  5  13:14     Sep 13  12:22    
+        Sep 21  01:29     Sep 27  18:00     Oct  5  02:56     Oct 13  06:48    
+        Oct 20  11:12     Oct 27  02:15     Nov  3  19:22     Nov 12  00:08    
+        Nov 18  20:56     Nov 25  13:53     Dec  3  14:04     Dec 11  15:08    
+        Dec 18  07:20     Dec 25  05:07                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2075                                       Jan  2  09:40 n   Jan 10  03:15    
+        Jan 16  18:37 T   Jan 23  23:33     Feb  1  04:13     Feb  8  12:42    
+        Feb 15  06:41     Feb 22  20:00     Mar  2  20:07     Mar  9  20:18    
+        Mar 16  19:26     Mar 24  16:46     Apr  1  08:46     Apr  8  03:04    
+        Apr 15  08:56     Apr 23  11:54     Apr 30  18:38     May  7  10:00    
+        May 14  23:23     May 23  03:57     May 30  02:39     Jun  5  18:01    
+        Jun 13  14:40     Jun 21  16:29     Jun 28  09:47 p   Jul  5  04:00    
+        Jul 13  06:12 A   Jul 21  01:56     Jul 27  16:54     Aug  3  16:44    
+        Aug 11  21:11     Aug 19  09:13     Aug 26  00:51     Sep  2  08:35    
+        Sep 10  11:03     Sep 17  15:26     Sep 24  10:31     Oct  2  03:14    
+        Oct  9  23:44     Oct 16  21:42     Oct 23  22:49     Oct 31  23:26    
+        Nov  8  11:36     Nov 15  05:06     Nov 22  14:21     Nov 30  19:22    
+        Dec  7  23:04     Dec 14  14:38     Dec 22  08:48 p   Dec 30  13:21    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2076   Jan  6  10:15 T   Jan 13  03:03     Jan 21  04:40     Jan 29  04:18    
+        Feb  4  21:02     Feb 11  18:35     Feb 19  23:49     Feb 27  15:55    
+        Mar  5  07:25     Mar 12  12:42     Mar 20  16:38     Mar 28  00:26    
+        Apr  3  17:48     Apr 11  08:00     Apr 19  06:30     Apr 26  06:41    
+        May  3  04:52     May 11  02:51     May 18  17:39     May 25  11:51    
+        Jun  1  17:15 P   Jun  9  19:58     Jun 17  02:39 t   Jun 23  17:22    
+        Jul  1  07:05 P   Jul  9  10:50     Jul 16  10:12     Jul 23  00:41    
+        Jul 30  22:06     Aug  7  23:22     Aug 14  17:12     Aug 21  11:01    
+        Aug 29  13:44     Sep  6  09:47     Sep 13  00:39     Sep 20  01:06    
+        Sep 28  05:28     Oct  5  18:27     Oct 12  09:38     Oct 19  18:51    
+        Oct 27  20:51     Nov  4  01:58     Nov 10  21:08     Nov 18  15:15    
+        Nov 26  11:29 P   Dec  3  09:16     Dec 10  11:36 t   Dec 18  12:40    
+        Dec 26  00:54                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2077                     Jan  1  17:28     Jan  9  04:38     Jan 17  09:10    
+        Jan 24  12:46     Jan 31  03:36     Feb  7  23:09     Feb 16  02:59    
+        Feb 22  23:07     Mar  1  16:11     Mar  9  17:43     Mar 17  16:57    
+        Mar 24  08:25     Mar 31  07:02     Apr  8  11:06     Apr 16  02:51    
+        Apr 22  17:21     Apr 29  23:29     May  8  02:24     May 15  09:27    
+        May 22  02:38 T   May 29  16:44     Jun  6  15:07 p   Jun 13  14:09    
+        Jun 20  12:55     Jun 28  10:06     Jul  6  01:22     Jul 12  18:34    
+        Jul 20  00:42     Jul 28  02:56     Aug  4  09:47     Aug 11  00:17    
+        Aug 18  14:18     Aug 26  18:31     Sep  2  17:24     Sep  9  08:36    
+        Sep 17  05:53     Sep 25  08:16     Oct  2  01:21     Oct  8  20:26    
+        Oct 16  23:08     Oct 24  19:52     Oct 31  10:37     Nov  7  12:09    
+        Nov 15  17:01 A   Nov 23  05:32     Nov 29  21:43 p   Dec  7  07:26    
+        Dec 15  10:07     Dec 22  13:57     Dec 29  10:46                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2078                                                         Jan  6  05:05    
+        Jan 14  01:15     Jan 20  22:00     Jan 28  01:34     Feb  5  03:01    
+        Feb 12  13:59     Feb 19  06:32     Feb 26  17:51     Mar  6  22:48    
+        Mar 14  00:38     Mar 20  16:11     Mar 28  11:05     Apr  5  14:46    
+        Apr 12  09:45     Apr 19  03:20     Apr 27  04:20 n   May  5  02:29    
+        May 11  17:57 T   May 18  16:16     May 26  20:23     Jun  3  10:39    
+        Jun 10  01:50     Jun 17  07:09     Jun 25  10:22     Jul  2  16:26    
+        Jul  9  10:09     Jul 16  23:48     Jul 24  22:08     Jul 31  21:12    
+        Aug  7  19:53     Aug 15  17:34     Aug 23  08:12     Aug 30  02:17    
+        Sep  6  07:59     Sep 14  11:23     Sep 21  17:31     Sep 28  09:01    
+        Oct  5  23:06     Oct 14  04:08     Oct 21  02:55 n   Oct 27  18:35    
+        Nov  4  16:57 A   Nov 12  19:05     Nov 19  12:53 n   Nov 26  07:55    
+        Dec  4  12:09     Dec 12  07:53     Dec 18  23:35     Dec 26  01:17    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2079   Jan  3  06:51     Jan 10  18:30     Jan 17  11:07     Jan 24  21:47    
+        Feb  1  23:36     Feb  9  03:12     Feb 15  23:46     Feb 23  19:24    
+        Mar  3  13:49     Mar 10  10:38     Mar 17  13:46     Mar 25  15:47    
+        Apr  2  01:31     Apr  8  17:45     Apr 16  05:03 p   Apr 24  09:16    
+        May  1  10:58 T   May  8  01:38     May 15  20:59     May 23  23:16    
+        May 30  18:42     Jun  6  11:19     Jun 14  12:39     Jun 22  09:57    
+        Jun 29  01:32     Jul  5  23:32     Jul 14  03:24     Jul 21  17:54    
+        Jul 28  08:34     Aug  4  14:28     Aug 12  17:01     Aug 20  00:00    
+        Aug 26  17:03     Sep  3  07:47     Sep 11  05:36     Sep 18  05:22    
+        Sep 25  04:07     Oct  3  02:36     Oct 10  17:24 t   Oct 17  11:22    
+        Oct 24  18:20 A   Nov  1  21:50     Nov  9  04:35     Nov 15  19:26    
+        Nov 23  11:30     Dec  1  16:14     Dec  8  15:17     Dec 15  06:44    
+        Dec 23  06:32     Dec 31  08:29                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2080                                       Jan  7  01:45     Jan 13  21:40    
+        Jan 22  01:56     Jan 29  21:37     Feb  5  12:22     Feb 12  15:38    
+        Feb 20  20:12     Feb 28  07:25     Mar  5  23:30     Mar 13  11:13    
+        Mar 21  12:07 P   Mar 28  14:32     Apr  4  11:25 t   Apr 12  06:50    
+        Apr 20  01:00     Apr 26  20:17     May  4  00:11     May 12  01:12    
+        May 19  10:57     May 26  02:04     Jun  2  13:46     Jun 10  17:21    
+        Jun 17  18:41     Jun 24  09:13     Jul  2  04:10     Jul 10  06:46    
+        Jul 17  01:22     Jul 23  18:41     Jul 31  19:14     Aug  8  17:22    
+        Aug 15  08:14     Aug 22  07:08     Aug 30  10:42     Sep  7  01:38    
+        Sep 13  16:26 P   Sep 20  22:49     Sep 29  01:55 t   Oct  6  08:31    
+        Oct 13  02:45     Oct 20  17:32     Oct 28  16:13     Nov  4  15:11    
+        Nov 11  15:38     Nov 19  14:21     Nov 27  05:15     Dec  3  22:53    
+        Dec 11  07:10     Dec 19  11:24     Dec 26  17:04                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2081                                                         Jan  2  08:33    
+        Jan 10  01:03     Jan 18  06:30     Jan 25  04:02     Jan 31  20:38    
+        Feb  8  20:18     Feb 16  22:00     Feb 23  14:28     Mar  2  11:07    
+        Mar 10  15:17 A   Mar 18  09:28     Mar 25  00:30 p   Apr  1  03:36    
+        Apr  9  08:16     Apr 16  17:32     Apr 23  10:20     Apr 30  21:25    
+        May  8  22:09     May 15  23:22     May 22  20:27     May 30  15:36    
+        Jun  7  09:02     Jun 14  04:17     Jun 21  07:33     Jun 29  09:00    
+        Jul  6  17:45     Jul 13  09:35     Jul 20  20:23     Jul 29  00:40    
+        Aug  5  01:25     Aug 11  16:33     Aug 19  11:16     Aug 27  14:09    
+        Sep  3  09:02 T   Sep 10  02:22     Sep 18  03:46 n   Sep 26  01:31    
+        Oct  2  17:24     Oct  9  15:59     Oct 17  20:51     Oct 25  11:14    
+        Nov  1  03:05     Nov  8  09:41     Nov 16  13:20     Nov 23  19:49    
+        Nov 30  14:37     Dec  8  06:39     Dec 16  04:32     Dec 23  03:56    
+        Dec 30  04:29                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2082                     Jan  7  04:46     Jan 14  18:12     Jan 21  12:16    
+        Jan 28  20:47     Feb  6  01:35     Feb 13  06:17 p   Feb 19  21:36    
+        Feb 27  14:49 A   Mar  7  19:16     Mar 14  16:46     Mar 21  08:38    
+        Mar 29  09:06     Apr  6  09:03     Apr 13  01:46     Apr 19  21:47    
+        Apr 28  02:03     May  5  19:05     May 12  09:50     May 19  12:59    
+        May 27  16:48     Jun  4  02:02     Jun 10  17:56     Jun 18  05:40    
+        Jun 26  05:17     Jul  3  07:00     Jul 10  03:11     Jul 17  22:59    
+        Jul 25  15:55     Aug  1  11:22     Aug  8  14:33 n   Aug 16  16:08    
+        Aug 24  01:19 T   Aug 30  16:43     Sep  7  04:30     Sep 15  08:30    
+        Sep 22  10:04     Sep 29  00:35     Oct  6  20:48     Oct 14  23:33    
+        Oct 21  18:51     Oct 28  12:14     Nov  5  14:39     Nov 13  12:47    
+        Nov 20  04:20     Nov 27  04:08     Dec  5  08:57     Dec 12  23:52    
+        Dec 19  15:11     Dec 26  23:38                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2083                                       Jan  4  02:33     Jan 11  08:56    
+        Jan 18  03:51     Jan 25  21:04     Feb  2  18:21 t   Feb  9  16:40    
+        Feb 16  18:16 P   Feb 24  18:25     Mar  4  07:35     Mar 11  00:10    
+        Mar 18  09:57     Mar 26  13:48     Apr  2  18:08     Apr  9  08:32    
+        Apr 17  02:10     Apr 25  05:55     May  2  02:30     May  8  18:31    
+        May 16  18:15     May 24  18:12     May 31  09:43     Jun  7  06:30    
+        Jun 15  09:38     Jun 23  02:53     Jun 29  16:52     Jul  6  20:34    
+        Jul 14  23:55 P   Jul 22  08:57     Jul 29  01:01 t   Aug  5  12:39    
+        Aug 13  12:46 P   Aug 20  13:47     Aug 27  11:00     Sep  4  06:25    
+        Sep 12  00:08     Sep 18  18:57     Sep 25  23:26     Oct  4  01:08    
+        Oct 11  10:24     Oct 18  01:55     Oct 25  14:36     Nov  2  19:31    
+        Nov  9  20:16     Nov 16  11:49     Nov 24  08:24     Dec  2  12:07    
+        Dec  9  06:25     Dec 16  01:14     Dec 24  03:52                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2084                                                         Jan  1  01:55    
+        Jan  7  17:18 P   Jan 14  18:03     Jan 22  23:16 t   Jan 30  12:43    
+        Feb  6  04:53     Feb 13  13:29     Feb 21  16:37     Feb 28  21:05    
+        Mar  6  17:04     Mar 14  10:07     Mar 22  06:49     Mar 29  03:59    
+        Apr  5  05:53     Apr 13  06:06     Apr 20  17:53     Apr 27  10:30    
+        May  4  19:33     May 12  23:44     May 20  02:37     May 26  17:36    
+        Jun  3  10:14     Jun 11  14:04     Jun 18  10:01     Jun 25  02:16    
+        Jul  3  01:39 A   Jul 11  01:07     Jul 17  17:02 p   Jul 24  13:23    
+        Aug  1  17:05     Aug  9  09:33     Aug 16  00:30     Aug 23  03:35    
+        Aug 31  07:46     Sep  7  16:24     Sep 14  09:16     Sep 21  21:00    
+        Sep 29  21:17     Oct  6  22:43     Oct 13  20:13     Oct 21  16:50    
+        Oct 29  09:48     Nov  5  05:34     Nov 12  10:11     Nov 20  13:23    
+        Nov 27  21:40     Dec  4  13:58     Dec 12  03:19     Dec 20  08:45    
+        Dec 27  09:08 T                                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2085                     Jan  3  00:48     Jan 10  22:43 n   Jan 19  01:27    
+        Jan 25  20:07     Feb  1  14:37     Feb  9  18:25     Feb 17  14:48    
+        Feb 24  06:33     Mar  3  07:17     Mar 11  12:27     Mar 19  00:45    
+        Mar 25  16:38     Apr  2  01:52     Apr 10  03:42     Apr 17  07:55    
+        Apr 24  03:00     May  1  20:53     May  9  16:05     May 16  13:19    
+        May 23  14:24     May 31  14:52     Jun  8  02:03 n   Jun 14  18:20    
+        Jun 22  03:19 A   Jun 30  06:56     Jul  7  10:15 n   Jul 14  00:25    
+        Jul 21  17:44     Jul 29  20:48     Aug  5  17:30     Aug 12  09:01    
+        Aug 20  09:11     Aug 28  08:31     Sep  4  00:42     Sep 10  21:08    
+        Sep 19  01:08     Sep 26  18:19     Oct  3  08:54     Oct 10  13:10    
+        Oct 18  17:00     Oct 26  02:35     Nov  1  19:09     Nov  9  08:32    
+        Nov 17  08:21     Nov 24  10:03     Dec  1  08:11 n   Dec  9  05:48    
+        Dec 16  22:39 A   Dec 23  17:43     Dec 31  00:00                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2086                                                         Jan  8  03:06    
+        Jan 15  11:25     Jan 22  02:42     Jan 29  17:49     Feb  6  22:31    
+        Feb 13  22:28     Feb 20  13:49     Feb 28  12:22     Mar  8  14:31    
+        Mar 15  08:05     Mar 22  03:17     Mar 30  06:18     Apr  7  02:23    
+        Apr 13  16:54     Apr 20  18:41     Apr 28  22:36     May  6  10:27    
+        May 13  01:42     May 20  11:20     May 28  12:36 p   Jun  4  15:52    
+        Jun 11  11:13 T   Jun 19  04:34     Jun 27  00:05     Jul  3  20:11    
+        Jul 10  22:03     Jul 18  21:46     Jul 26  09:25     Aug  2  01:02    
+        Aug  9  10:39     Aug 17  14:15     Aug 24  17:26     Aug 31  07:53    
+        Sep  8  01:18     Sep 16  05:18     Sep 23  01:16     Sep 29  17:53    
+        Oct  7  17:57     Oct 15  18:19     Oct 22  09:57     Oct 29  07:41    
+        Nov  6  11:54     Nov 14  05:12     Nov 20  20:13 p   Nov 28  01:18    
+        Dec  6  05:49 P   Dec 13  14:21     Dec 20  08:20     Dec 27  21:59    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2087   Jan  4  22:12     Jan 11  22:31     Jan 18  22:12     Jan 26  20:02    
+        Feb  3  12:11     Feb 10  06:39     Feb 17  13:35     Feb 25  17:07    
+        Mar  4  23:46     Mar 11  15:27     Mar 19  06:10     Mar 27  11:05    
+        Apr  3  09:27     Apr 10  01:30     Apr 17  23:18     Apr 26  00:52    
+        May  2  17:52 P   May  9  13:10     May 17  15:56 t   May 25  10:42    
+        Jun  1  01:39 P   Jun  8  02:46     Jun 16  06:59     Jun 23  17:34    
+        Jun 30  09:32     Jul  7  18:25     Jul 15  19:55     Jul 22  22:44    
+        Jul 29  18:21     Aug  6  11:44     Aug 14  06:55     Aug 21  03:35    
+        Aug 28  05:09     Sep  5  05:50     Sep 12  16:44     Sep 19  09:24    
+        Sep 26  18:48     Oct  4  23:33     Oct 12  02:15     Oct 18  17:28    
+        Oct 26  11:30 P   Nov  3  15:49     Nov 10  12:06 t   Nov 17  04:52    
+        Nov 25  06:24     Dec  3  06:02     Dec  9  22:32     Dec 16  20:12    
+        Dec 25  01:43                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2088                     Jan  1  17:55     Jan  8  09:38     Jan 15  15:14    
+        Jan 23  19:39     Jan 31  03:34     Feb  6  21:34     Feb 14  12:25    
+        Feb 22  11:10     Feb 29  11:27     Mar  7  10:37     Mar 15  09:30    
+        Mar 23  00:01     Mar 29  18:24     Apr  6  01:00     Apr 14  04:27    
+        Apr 21  10:26 T   Apr 28  01:30     May  5  16:26 p   May 13  20:10    
+        May 20  18:50     May 27  09:52     Jun  4  08:09     Jun 12  08:31    
+        Jun 19  01:55     Jun 25  20:30     Jul  3  23:23     Jul 11  17:53    
+        Jul 18  08:39     Jul 25  09:55     Aug  2  13:40     Aug 10  00:58    
+        Aug 16  16:16     Aug 24  02:06     Sep  1  02:58     Sep  8  06:44    
+        Sep 15  01:59     Sep 22  20:26     Sep 30  15:26     Oct  7  12:25    
+        Oct 14  14:40 A   Oct 22  15:52     Oct 30  03:11 p   Nov  5  19:23    
+        Nov 13  06:33     Nov 21  11:09     Nov 28  14:19     Dec  5  04:59    
+        Dec 13  00:53     Dec 21  04:53     Dec 28  00:58                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2089                                                         Jan  3  18:01    
+        Jan 11  20:18     Jan 19  19:48     Jan 26  11:26     Feb  2  10:24    
+        Feb 10  15:17     Feb 18  07:16     Feb 24  22:06     Mar  4  05:06    
+        Mar 12  08:25     Mar 19  15:31     Mar 26  09:21 n   Apr  3  00:37    
+        Apr 10  22:46 A   Apr 17  21:38     Apr 24  21:23     May  2  19:32    
+        May 10  10:04     May 17  03:02     May 24  10:19     Jun  1  12:50    
+        Jun  8  18:45     Jun 15  09:10     Jun 23  00:08     Jul  1  03:44    
+        Jul  8  01:48     Jul 14  17:12     Jul 22  14:51     Jul 30  15:56    
+        Aug  6  08:29     Aug 13  03:59     Aug 21  06:17     Aug 29  01:33    
+        Sep  4  15:59     Sep 11  18:02     Sep 19  21:56 n   Sep 27  09:16    
+        Oct  4  01:16 T   Oct 11  11:23     Oct 19  13:05     Oct 26  16:08    
+        Nov  2  12:56     Nov 10  07:29     Nov 18  03:03     Nov 24  23:19    
+        Dec  2  03:12     Dec 10  04:53     Dec 17  15:38     Dec 24  07:56    
+        Dec 31  19:58                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2090                     Jan  9  01:22     Jan 16  03:04     Jan 22  18:39    
+        Jan 30  14:35     Feb  7  18:53     Feb 14  13:40     Feb 21  07:43    
+        Mar  1  09:47     Mar  9  08:21     Mar 15  23:43 t   Mar 22  22:56    
+        Mar 31  03:49 P   Apr  7  17:57     Apr 14  09:23     Apr 21  15:51    
+        Apr 29  19:13     May  7  00:39     May 13  19:02     May 21  09:44    
+        May 29  07:30     Jun  5  05:46     Jun 12  05:19     Jun 20  03:34    
+        Jun 27  17:12     Jul  4  10:38     Jul 11  17:03     Jul 19  20:17    
+        Jul 27  01:20     Aug  2  16:32     Aug 10  06:52     Aug 18  11:06    
+        Aug 25  09:00     Sep  1  00:45     Sep  8  22:46 t   Sep 16  23:49    
+        Sep 23  17:04 T   Sep 30  12:22     Oct  8  15:55     Oct 16  10:38    
+        Oct 23  02:10     Oct 30  04:05     Nov  7  09:06     Nov 14  19:59    
+        Nov 21  12:49     Nov 28  23:41     Dec  7  01:15     Dec 14  04:26    
+        Dec 21  01:30     Dec 28  21:37                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2091                                       Jan  5  15:51     Jan 12  12:35    
+        Jan 19  16:32     Jan 27  19:24     Feb  4  04:47     Feb 10  21:12    
+        Feb 18  09:39 P   Feb 26  14:48     Mar  5  16:00 t   Mar 12  07:03    
+        Mar 20  03:47     Mar 28  06:32     Apr  4  01:32     Apr 10  18:46    
+        Apr 18  21:21     Apr 26  18:21     May  3  09:47     May 10  08:37    
+        May 18  13:08     May 26  02:43     Jun  1  17:32     Jun  9  00:23    
+        Jun 17  02:42     Jun 24  08:32     Jul  1  01:55     Jul  8  17:22    
+        Jul 16  14:16     Jul 23  13:03     Jul 30  12:02     Aug  7  10:46    
+        Aug 15  00:23 T   Aug 21  17:44     Aug 29  00:40 t   Sep  6  03:48    
+        Sep 13  09:35     Sep 20  00:11     Sep 27  15:57     Oct  5  19:54    
+        Oct 12  18:30     Oct 19  09:51     Oct 27  09:19     Nov  4  10:28    
+        Nov 11  03:43     Nov 17  23:40     Nov 26  03:44     Dec  3  22:56    
+        Dec 10  13:55     Dec 17  17:30     Dec 25  22:00                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2092                                                         Jan  2  09:08    
+        Jan  9  01:38     Jan 16  14:09     Jan 24  14:56     Jan 31  17:26    
+        Feb  7  15:04 A   Feb 15  11:41     Feb 23  05:30 n   Mar  1  00:47    
+        Mar  8  05:57     Mar 16  08:08     Mar 23  17:16     Mar 30  08:22    
+        Apr  6  21:42     Apr 15  01:55     Apr 22  02:30     Apr 28  17:09    
+        May  6  13:40     May 14  16:07     May 21  10:01     May 28  03:47    
+        Jun  5  05:18     Jun 13  02:34     Jun 19  16:57     Jun 26  16:33    
+        Jul  4  20:12     Jul 12  09:55     Jul 19  00:25 n   Jul 26  07:32    
+        Aug  3  09:55 A   Aug 10  15:19     Aug 17  09:23 n   Aug 25  00:33    
+        Sep  1  22:15     Sep  8  20:16     Sep 15  20:34     Sep 23  19:06    
+        Oct  1  09:16     Oct  8  02:17     Oct 15  10:26     Oct 23  14:08    
+        Oct 30  19:30     Nov  6  10:41     Nov 14  03:06     Nov 22  08:08    
+        Nov 29  05:37     Dec  5  22:19     Dec 13  22:00     Dec 21  23:40    
+        Dec 28  16:11                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2093                     Jan  4  13:24     Jan 12  17:44 n   Jan 20  12:04    
+        Jan 27  03:23 T   Feb  3  07:28     Feb 11  12:20     Feb 18  21:34    
+        Feb 25  15:07     Mar  5  03:28     Mar 13  04:07     Mar 20  04:58    
+        Mar 27  03:19     Apr  3  23:47     Apr 11  16:37     Apr 18  11:21    
+        Apr 25  16:13     May  3  18:38     May 11  02:18     May 17  17:48    
+        May 25  06:08     Jun  2  10:40     Jun  9  10:10     Jun 16  01:20    
+        Jun 23  21:06     Jul  1  23:25     Jul  8  17:15 p   Jul 15  10:55    
+        Jul 23  12:37 A   Jul 31  09:14     Aug  7  00:24     Aug 13  23:24    
+        Aug 22  03:54     Aug 29  16:59     Sep  5  08:29     Sep 12  15:16    
+        Sep 20  18:17     Sep 27  23:40     Oct  4  18:19     Oct 12  10:11    
+        Oct 20  07:34     Oct 27  06:19     Nov  3  06:47     Nov 11  06:51    
+        Nov 18  19:59     Nov 25  13:55     Dec  2  22:25     Dec 11  03:16    
+        Dec 18  07:49     Dec 24  23:26                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2094                                       Jan  1  16:52 p   Jan  9  21:37    
+        Jan 16  19:06 T   Jan 23  11:35     Jan 31  12:38     Feb  8  12:46    
+        Feb 15  05:44     Feb 22  02:37     Mar  2  07:36     Mar 10  00:23    
+        Mar 16  15:45     Mar 23  20:06     Apr  1  00:12     Apr  8  08:47    
+        Apr 15  01:38     Apr 22  14:49     Apr 30  13:55     May  7  14:49    
+        May 14  12:10     May 22  09:17     May 30  00:59     Jun  5  19:42    
+        Jun 13  00:04 P   Jun 21  02:20     Jun 28  10:00 t   Jul  5  00:55    
+        Jul 12  13:38 P   Jul 20  17:26     Jul 27  17:40     Aug  3  07:59    
+        Aug 11  04:38     Aug 19  06:28     Aug 26  00:53     Sep  1  18:10    
+        Sep  9  20:32     Sep 17  17:29     Sep 24  08:34     Oct  1  08:16    
+        Oct  9  12:45     Oct 17  02:46     Oct 23  17:49     Oct 31  02:10    
+        Nov  8  04:43     Nov 15  10:46     Nov 22  05:28     Nov 29  22:50    
+        Dec  7  19:51 P   Dec 14  18:18     Dec 21  19:57 t   Dec 29  20:28    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2095   Jan  6  09:34     Jan 13  02:29     Jan 20  12:49     Jan 28  17:08    
+        Feb  4  21:30     Feb 11  12:18     Feb 19  07:00     Feb 27  11:00    
+        Mar  6  07:40     Mar 13  00:19     Mar 21  01:11     Mar 29  00:56    
+        Apr  4  16:37     Apr 11  14:28     Apr 19  18:15     Apr 27  10:46    
+        May  4  01:07     May 11  06:15     May 19  09:22     May 26  17:18    
+        Jun  2  09:59 T   Jun  9  23:03     Jun 17  22:07 p   Jun 24  21:56    
+        Jul  1  19:55     Jul  9  16:17     Jul 17  08:32     Jul 24  02:18    
+        Jul 31  07:30     Aug  8  09:20     Aug 15  17:14     Aug 22  07:58    
+        Aug 29  21:06     Sep  7  01:27     Sep 14  01:12     Sep 20  16:17    
+        Sep 28  12:55     Oct  6  15:53     Oct 13  09:31     Oct 20  04:09    
+        Oct 28  06:33     Nov  5  04:10     Nov 11  19:06     Nov 18  19:56    
+        Nov 27  00:55 A   Dec  4  14:22     Dec 11  06:22 p   Dec 18  15:15    
+        Dec 26  18:25                                                          
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2096                     Jan  2  23:03     Jan  9  19:21     Jan 17  12:52    
+        Jan 25  09:46     Feb  1  07:04     Feb  8  09:51     Feb 16  10:40    
+        Feb 23  22:29     Mar  1  15:17     Mar  9  01:38     Mar 17  06:19    
+        Mar 24  08:56     Mar 31  00:22     Apr  7  18:19     Apr 15  22:12    
+        Apr 22  17:44     Apr 29  10:51     May  7  11:08 n   May 15  09:55    
+        May 22  01:36 T   May 28  23:08     Jun  6  03:00     Jun 13  18:10    
+        Jun 20  09:13     Jun 27  13:32     Jul  5  17:03     Jul 13  00:06    
+        Jul 19  17:22     Jul 27  06:00     Aug  4  05:06     Aug 11  05:02    
+        Aug 18  03:01     Aug 25  23:57     Sep  2  15:37     Sep  9  10:18    
+        Sep 16  15:11     Sep 24  18:15     Oct  2  01:26     Oct  8  17:10    
+        Oct 16  06:29     Oct 24  11:42     Oct 31  11:17 n   Nov  7  02:49    
+        Nov 15  00:37 A   Nov 23  03:19     Nov 29  21:35 n   Dec  6  16:09    
+        Dec 14  20:07     Dec 22  16:37     Dec 29  08:24                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2097                                                         Jan  5  09:21    
+        Jan 13  15:01     Jan 21  03:28     Jan 27  19:48     Feb  4  05:33    
+        Feb 12  07:50     Feb 19  12:08     Feb 26  08:03     Mar  6  02:48    
+        Mar 13  21:58     Mar 20  19:17     Mar 27  21:29     Apr  4  22:51    
+        Apr 12  09:27     Apr 19  01:55     Apr 26  12:10 p   May  4  16:10    
+        May 11  18:41 T   May 18  09:15     May 26  03:37     Jun  3  06:12    
+        Jun 10  02:15     Jun 16  18:23     Jun 24  19:05     Jul  2  17:06    
+        Jul  9  08:59     Jul 16  06:11     Jul 24  09:55     Aug  1  01:25    
+        Aug  7  16:01     Aug 14  20:57     Aug 22  23:54     Aug 30  07:55    
+        Sep  6  00:35     Sep 13  14:23     Sep 21  13:01     Sep 28  13:40    
+        Oct  5  11:46     Oct 13  09:36     Oct 21  01:24 t   Oct 27  19:57    
+        Nov  4  02:10 A   Nov 12  05:24     Nov 19  13:04     Nov 26  04:08    
+        Dec  3  19:28     Dec 12  00:20     Dec 19  00:05     Dec 25  15:22    
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2098   Jan  2  14:33     Jan 10  16:59     Jan 17  10:37     Jan 24  05:59    
+        Feb  1  09:55     Feb  9  06:17     Feb 15  21:01     Feb 22  23:27    
+        Mar  3  04:04     Mar 10  16:02     Mar 17  07:44     Mar 24  18:27    
+        Apr  1  19:48 P   Apr  8  22:57     Apr 15  19:05 t   Apr 23  13:35    
+        May  1  08:33     May  8  04:22     May 15  07:17     May 23  07:40    
+        May 30  18:24     Jun  6  09:47     Jun 13  20:26     Jun 21  23:52    
+        Jun 29  02:07     Jul  5  16:33     Jul 13  10:36     Jul 21  13:35    
+        Jul 28  08:52     Aug  4  01:44     Aug 12  01:45     Aug 20  00:42    
+        Aug 26  15:54     Sep  2  14:04     Sep 10  17:34     Sep 18  09:34    
+        Sep 25  00:18 P   Oct  2  05:50     Oct 10  09:21 t   Oct 17  16:58    
+        Oct 24  10:50 P   Nov  1  00:48     Nov  9  00:16     Nov 16  00:02    
+        Nov 22  23:52     Nov 30  21:57     Dec  8  13:47     Dec 15  07:54    
+        Dec 22  15:25     Dec 30  19:21                                        
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2099                                       Jan  7  01:51     Jan 13  17:27    
+        Jan 21  09:08     Jan 29  14:40     Feb  5  12:50     Feb 12  05:09    
+        Feb 20  04:07     Feb 28  06:14     Mar  6  23:01     Mar 13  19:01    
+        Mar 21  22:48 A   Mar 29  17:40     Apr  5  08:38 p   Apr 12  10:49    
+        Apr 20  15:31     Apr 28  01:37     May  4  18:00     May 12  04:01    
+        May 20  05:18     May 27  07:17     Jun  3  03:38     Jun 10  21:50    
+        Jun 18  16:11     Jun 25  12:02     Jul  2  14:22     Jul 10  15:15    
+        Jul 18  01:02     Jul 24  17:11     Aug  1  03:01     Aug  9  07:15    
+        Aug 16  08:56     Aug 23  00:02     Aug 30  17:57     Sep  7  21:19    
+        Sep 14  16:52 T   Sep 21  09:49     Sep 29  10:47 n   Oct  7  09:23    
+        Oct 14  01:33     Oct 20  23:28     Oct 29  04:22     Nov  5  19:43    
+        Nov 12  11:31     Nov 19  17:18     Nov 27  21:23     Dec  5  04:47    
+        Dec 11  23:10     Dec 19  14:23     Dec 27  13:00                      
+
+
+ Year      New Moon       First Quarter       Full Moon       Last Quarter 
+
+ 2100                                                         Jan  3  13:04    
+        Jan 10  12:57     Jan 18  12:35     Jan 26  02:51     Feb  1  21:17    
+        Feb  9  04:56     Feb 17  09:23     Feb 24  14:53 n   Mar  3  06:12    
+        Mar 10  22:30 A   Mar 19  03:00     Mar 26  01:06     Apr  1  16:37    
+        Apr  9  16:18     Apr 17  16:43     Apr 24  09:45     May  1  05:02    
+        May  9  08:55     May 17  02:43     May 23  17:26     May 30  19:36    
+        Jun  7  23:33     Jun 15  09:42     Jun 22  01:12     Jun 29  11:53    
+        Jul  7  12:08     Jul 14  14:44     Jul 21  10:14     Jul 29  05:10    
+        Aug  5  23:03     Aug 12  19:11     Aug 19  21:31 n   Aug 27  22:38    
+        Sep  4  08:51 T   Sep 11  00:37     Sep 18  11:33     Sep 26  15:35    
+        Oct  3  18:04     Oct 10  08:34     Oct 18  04:07     Oct 26  07:20    
+        Nov  2  03:15     Nov  8  20:16     Nov 16  22:20     Nov 24  21:14    
+        Dec  1  13:02     Dec  8  12:10     Dec 16  17:01     Dec 24  08:47    
+        Dec 30  23:58                                                          
